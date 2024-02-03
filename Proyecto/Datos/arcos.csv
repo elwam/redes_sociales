@@ -1,1267 +1,4182 @@
 Source,Target
-IDG Capital,Baidu
-Prosus & Naspers,DST Global
+IDG Capital,Tencent
+Prosus & Naspers,Tencent
 Lippo Group,Tencent
 PCCW,Tencent
-Andreessen Horowitz,Everyrealm
-Morgan Stanley,Affirm
-Spark Capital,Affirm
-Union Square Ventures,CircleUp
-Insight Partners,Aviatrix
-Tencent,DST Global
-JP Morgan Chase,ConsenSys
+Andreessen Horowitz,Twitter
+Morgan Stanley,Twitter
+Spark Capital,Twitter
+Union Square Ventures,Twitter
+Insight Partners,Twitter
+Tencent,Ubisoft
+JP Morgan Chase,Ubisoft
 Ontario Teachers' Pension Plan,Ubisoft
 Electronic Arts,Ubisoft
-SoftBank,Alibaba Group
-Goldman Sachs,Alibaba Group
+SoftBank,WeWork
+JP Morgan Chase,WeWork
+Goldman Sachs,WeWork
+Insight Partners,WeWork
 Cushman & Wakefield,WeWork
-Ascension,Credit Kudos
-BlackRock,Automattic
-QED Investors,CircleUp
-Northzone,fuboTV
-Y Combinator,FundersClub
-Tiger Global Management,Aviatrix
-Accel,Amplify.LA
-East Ventures,Novelship
+Ascension,Wagestream
+BlackRock,Wagestream
+QED Investors,Wagestream
+Northzone,Wagestream
+Y Combinator,Xendit
+Tiger Global Management,Xendit
+Accel,Xendit
+East Ventures,Xendit
 Goat Capital,Xendit
-RRE Ventures,Arca
-Foundry Group,JumpCloud
+RRE Ventures,Techstars
+Foundry Group,Techstars
 Mercury,Techstars
-IA Ventures,Heavybit
-Meyer Global Management,Miso Robotics
+IA Ventures,Techstars
+Meyer Global Management,StartEngine
 BAM Ventures,StartEngine
-American Rescue Plan,Comcast
-NYSERDA,General Motors
+American Rescue Plan,Verizon
+NYSERDA,Verizon
 ATN International,Verizon
-Galaxy Digital,Argo Blockchain
-Hashed,Everyrealm
-Polychain,Ava Labs
-Binance,Republic
-Coinbase Ventures,Arweave
-Digital Currency Group,Blockchain.com
-Blockchain Capital,BitGo
-Stellar Development Foundation,Abra
-Draper Associates,EquityZen
-Kraken,Chingari
-Apple,Adobe
-Sequoia Capital,Electronic Arts
+Galaxy Digital,Terra
+Hashed,Terra
+Polychain,Terra
+Binance,Terra
+Coinbase Ventures,Terra
+Digital Currency Group,Wyre
+Blockchain Capital,Wyre
+Stellar Development Foundation,Wyre
+Draper Associates,Wyre
+Kraken,Wyre
+Apple,Zomato
+Sequoia Capital,Zomato
 Info Edge,Zomato
-Google,Baidu
-Baillie Gifford,Blockchain.com
-Craft Ventures,Affirm
-Bessemer Venture Partners,Good Technology
-SV Angel,Elastic
-Elliott Management,Wipro Technologies
+Tiger Global Management,Zomato
+Google,SpaceX
+Baillie Gifford,SpaceX
+Craft Ventures,SpaceX
+Y Combinator,Twitch
+Draper Associates,Twitch
+Bessemer Venture Partners,Twitch
+SV Angel,Twitch
+Elliott Management,SAP
 EASME - EU Executive Agency for SMEs,SAP
-Maverick Ventures,D-ID
-Plug and Play Tech Center,Bigblue
-Meituan,Gojek
-Invesco,Capchase
-Techstars,Arena.im
-Fifth Wall,Cottage
-Qualcomm Ventures,Bounce
-AXA Venture Partners,D-ID
-Matrix Partners,Apartment List
+Y Combinator,Wefunder
+Maverick Ventures,Wefunder
+Plug and Play Tech Center,Wefunder
+Tencent,Swiggy
+SoftBank,Swiggy
+Meituan,Swiggy
+Invesco,Swiggy
+Goldman Sachs,Swiggy
+Techstars,Tive
+Fifth Wall,Tive
+RRE Ventures,Tive
+Qualcomm Ventures,Tive
+AXA Venture Partners,Tive
+Sequoia Capital,Stanza Living
+Matrix Partners,Stanza Living
 RBL Bank,Stanza Living
-Sequoia Capital India,CredAvenue
-500 Startups,Golden Gate
-Redpoint,FloQast
-Zomato,blinkit
-Swiggy,Rapido
-Axilor Ventures,EnKash
-Citi,Didi
-Susquehanna International Group (SIG),Cialfo
-Temasek Holdings,Bitmain
-Wavemaker Partners,FloQast
-Alibaba Group,Farfetch
-GSR Ventures,Novelship
-GGV Capital,Electric
-New Enterprise Associates,Good Technology
-Sorenson Capital,Couchbase
-IIFL Finance,Licious
-Chiratae Ventures,Kristal.AI
-Index Ventures,Credit Benchmark
-Kohlberg Kravis Roberts,FanDuel
-EquityZen,Glassdoor
+Accel,Stanza Living
+Sequoia Capital India,Stanza Living
+Techstars,Twilio
+500 Startups,Twilio
+Union Square Ventures,Twilio
+Redpoint,Twilio
+Zomato,UrbanPiper
+Swiggy,UrbanPiper
+Tiger Global Management,UrbanPiper
+Sequoia Capital India,UrbanPiper
+Axilor Ventures,UrbanPiper
+Tencent,Tesla
+Citi,Tesla
+Google,Tesla
+Morgan Stanley,Tesla
+Goldman Sachs,Tesla
+Sequoia Capital,Zilingo
+Draper Associates,Zilingo
+Susquehanna International Group (SIG),Zilingo
+Temasek Holdings,Zilingo
+Wavemaker Partners,Zilingo
+Tencent,Xiaohongshu
+Alibaba Group,Xiaohongshu
+GSR Ventures,Xiaohongshu
+Temasek Holdings,Xiaohongshu
+GGV Capital,Xiaohongshu
+New Enterprise Associates,Uniphore
+Sorenson Capital,Uniphore
+IIFL Finance,Uniphore
+Chiratae Ventures,Uniphore
+Redpoint,Sonos
+Index Ventures,Sonos
+Kohlberg Kravis Roberts,Sonos
+EquityZen,Sonos
 Evotec,Sanofi
+Insight Partners,Thunes
 Checkout.com,Thunes
-Future Shape,Sweep
+GGV Capital,Thunes
+Future Shape,Thunes
 Helios Investment Partners,Thunes
 Intact Financial Corporation,Turo
-GV,Blockchain.com
-Daimler,Bolt
-Shasta Ventures,Ascend.io
-Goodwater Capital,Citizen
-PayU,Remitly
-Outbound Ventures,Maude
-Commerce Ventures,Card91
-SoftBank Vision Fund,Cruise
-SignalFire,Bubble
-FJ Labs,FanDuel
-AME Cloud Ventures,Eat Just
-Maveron,eBay
-Gaingels,BlockFi
-Balderton Capital,Credit Benchmark
-Speedinvest,Bitpanda
-Swisscom Ventures,Beqom
-BlockTower Capital,Enjin
-Slow Ventures,Citizen
-OMERS Ventures,Digital Currency Group
-FirstMark,Dataiku
-Felicis Ventures,Adyen
-F-Prime Capital,Doceree
-Stellaris Venture Partners,Mamaearth
-Brand Foundry Ventures,Birchbox
-Intel Capital,Exo
-Toba Capital,FloQast
+GV,Turo
+Daimler,Turo
+Shasta Ventures,Turo
+Goodwater Capital,Treinta
+Y Combinator,Treinta
+PayU,Treinta
+Outbound Ventures,Treinta
+Commerce Ventures,Treinta
+SoftBank Vision Fund,Zume
+SignalFire,Zume
+FJ Labs,Zume
+AME Cloud Ventures,Zume
+Maveron,Zume
+Gaingels,Yieldstreet
+FJ Labs,Yieldstreet
+Sequoia Capital,Yokoy
+Balderton Capital,Yokoy
+Speedinvest,Yokoy
+Swisscom Ventures,Yokoy
+Andreessen Horowitz,Solana
+BlockTower Capital,Solana
+500 Startups,Solana
+Polychain,Solana
+Slow Ventures,Solana
+Insight Partners,Shopify
+OMERS Ventures,Shopify
+FirstMark,Shopify
+Bessemer Venture Partners,Shopify
+Felicis Ventures,Shopify
+SoftBank Vision Fund,Whatfix
+F-Prime Capital,Whatfix
+Sequoia Capital India,Whatfix
+Stellaris Venture Partners,Whatfix
+Brand Foundry Ventures,Trace
+Intel Capital,Trace
+Toba Capital,Trace
 NextGen Venture Partners,Trace
 Amplify.LA,Trace
+Tiger Global Management,Yandex
 Almaz Capital,Yandex
 RTP Global,Yandex
 Baring Vostok Capital Partners,Yandex
 KittyHawk Ventures,Vytalize Health
-North Coast Ventures,Zebra Technologies
-TA Associates,Bigpoint
-AltaIR Capital,OpenWeb
-SB Opportunity Fund,Subject
-Bossa Nova Investimentos,BoostUp.ai
-SoftBank Capital,Renren
+North Coast Ventures,Vytalize Health
+TA Associates,Sophos
+Y Combinator,Squire
+Tiger Global Management,Squire
+AltaIR Capital,Squire
+SB Opportunity Fund,Squire
+Bossa Nova Investimentos,Squire
+Tencent,Satellogic
+SoftBank Capital,Satellogic
 Cantor Fitzgerald,Satellogic
-M13,Boba Network
-Fidelity Management and Research Company,Perella Weinberg Partners
-Lightspeed Venture Partners,Blockchain.com
-L Catterton,FLASH
-Coatue,Bitmain
-Khaira Capital,Clari
-Samsung Ventures,Trell
+M13,The Honest Company
+Fidelity Management and Research Company,The Honest Company
+Lightspeed Venture Partners,The Honest Company
+L Catterton,The Honest Company
+Spark Capital,SiFive
+Qualcomm Ventures,SiFive
+Coatue,SiFive
+Khaira Capital,SiFive
+Samsung Ventures,SiFive
+Fidelity Management and Research Company,Shift
 Lithia Motors,Shift
-Highland Capital Partners,Rent the Runway
-Threshold,Baidu
-Mastercard,Deserve
+Highland Capital Partners,Shift
+Threshold,Shift
+Mastercard,Zeta
+SoftBank Vision Fund,Zeta
 Sodexo,Zeta
-International Finance Corporation,Bandhan Bank
-Alpha JWC Ventures,Ajaib
-Global Brain Corporation,PlaceHolder
-Samsung Electronics,DigiLens
-Mubadala,Evotec
-Dyal Capital Partners,Golub Capital
-8VC,BlueVoyant
-XYZ Venture Capital,Hex Technologies
-Goldcrest Capital,Route
-Zigg Capital,Juniper Square
-DCVC,Elastic
-Horizons Ventures,Eat Just
-Garage Capital,Astranis
-FundersClub,FundersClub
-VentureSouq,Volopay
+International Finance Corporation,Sayurbox
+Alpha JWC Ventures,Sayurbox
+Global Brain Corporation,Sayurbox
+Samsung Electronics,SoftBank
+Tiger Global Management,SoftBank
+Mubadala,Silver Lake
+Dyal Capital Partners,Silver Lake
+8VC,Vontive
+XYZ Venture Capital,Vontive
+Goldcrest Capital,Vontive
+Zigg Capital,Vontive
+Sequoia Capital,Zoom
+Qualcomm Ventures,Zoom
+DCVC,Zoom
+Horizons Ventures,Zoom
+AME Cloud Ventures,Zoom
+Andreessen Horowitz,Substack
+Garage Capital,Substack
+FundersClub,Substack
+Y Combinator,Substack
+VentureSouq,Substack
+Temasek Holdings,UpGrad
+International Finance Corporation,UpGrad
+IIFL Finance,UpGrad
 IndieBio,The EVERY Company
-SOSV,rocketship.vc
+Temasek Holdings,The EVERY Company
+SOSV,The EVERY Company
 UpHonest Capital,The EVERY Company
-Prosus Ventures,ElasticRun
+Prosus Ventures,The EVERY Company
+Google,Stripe
+Sequoia Capital,Stripe
+Andreessen Horowitz,Stripe
+Y Combinator,Stripe
 The Boeing Company,SparkCognition
-US Department of Energy,American Axle & Manufacturing
+Temasek Holdings,SparkCognition
+US Department of Energy,SparkCognition
 Energize Ventures,SparkCognition
-Hearst Ventures,Science
-Deutsche Bank,PayPal
+Hearst Ventures,SparkCognition
+Morgan Stanley,Zebra Technologies
+Deutsche Bank,Zebra Technologies
+North Coast Ventures,Zebra Technologies
 Plymouth Growth,Zebra Technologies
+Goldman Sachs,Zendesk
+Matrix Partners,Zendesk
+Redpoint,Zendesk
+Index Ventures,Zendesk
+GGV Capital,Zendesk
 European regional development fund (ERDF),Startup Wise Guys
+Citi,Wonderschool
+Andreessen Horowitz,Wonderschool
+Gaingels,Wonderschool
+Goldman Sachs,Wonderschool
+FundersClub,Wonderschool
+Tencent,Uber
+Techstars,Uber
+Citi,Uber
 Uber,Uber
-JP Morgan,Figure
+Sequoia Capital,Uber
+JP Morgan,Wayflyer
+QED Investors,Wayflyer
+Prosus Ventures,Wayflyer
+Speedinvest,Wayflyer
 Kristal.AI,Stockal
-HDFC Bank,Bandhan Bank
+Hashed,Stockal
+HDFC Bank,Stockal
 trica,Stockal
 Cadenza Capital Management,Stockal
-Ava Labs,Figment
-Ripple,Coil
+Blockchain Capital,Securitize
+Ava Labs,Securitize
+Ripple,Securitize
+Coinbase Ventures,Securitize
 Ripio,Securitize
-RA Capital Management,Exo
-GIC,Checkout.com
-Optum Ventures,LetsGetChecked
-Surge,dyte
-BEENEXT,mfine
-Kalaari Capital,ElasticRun
-Makers Fund,FRVR
-Griffin Gaming Partners,Overwolf
+Fidelity Management and Research Company,Somatus
+RA Capital Management,Somatus
+GIC,Somatus
+Optum Ventures,Somatus
+Sequoia Capital India,Trell
+Surge,Trell
+Samsung Ventures,Trell
+BEENEXT,Trell
+Bossa Nova Investimentos,Trell
+Kalaari Capital,WinZO
+Makers Fund,WinZO
+Griffin Gaming Partners,WinZO
 Hike,WinZO
-HarbourVest Partners,monday.com
+HarbourVest Partners,Stax
 Fulcrum Equity Partners,Stax
 Greater Sum Ventures,Stax
-Fin Venture Capital,Figure
-TTV Capital,Welcome Tech
-Eldridge,CAIS
+Fin Venture Capital,SamCart
+TTV Capital,SamCart
+Eldridge,SamCart
 George Kaiser Family Foundation,SamCart
-Streamlined Ventures,Forge
+Streamlined Ventures,Voyager
 Moving Capital,Voyager
 Stifel Financial,Voyager
-Foxconn Technology Group,DigiLens
+Alibaba Group,Snapdeal
+Kalaari Capital,Snapdeal
+BlackRock,Snapdeal
+Temasek Holdings,Snapdeal
+Foxconn Technology Group,Snapdeal
 SixThirty,Silverfort
 StageOne Ventures,Silverfort
 TLV Partners,Silverfort
-Oak HC/FT,Brightline
-Hack VC,Boba Network
-Storm Ventures,Nearpod
-MDI Ventures,FinAccel
-Emtek Group,PropertyGuru Group
-SVB Capital,Komodo Health
-Ribbit Capital,Checkout.com
-NFX,Finrise
-DST Global,Cogoport
-Owl Ventures,Apna
+SoftBank Vision Fund,Sendoso
+Craft Ventures,Sendoso
+Oak HC/FT,Sendoso
+Hack VC,Sendoso
+Storm Ventures,Sendoso
+MDI Ventures,waresix
+Tiger Global Management,waresix
+Temasek Holdings,waresix
+Emtek Group,waresix
+SVB Capital,Tomo
+Ribbit Capital,Tomo
+NFX,Tomo
+Zigg Capital,Tomo
+DST Global,Tomo
+SB Opportunity Fund,Welcome Tech
+TTV Capital,Welcome Tech
+Owl Ventures,Welcome Tech
 Crosscut Ventures,Welcome Tech
 Next Play Capital,Welcome Tech
-Eurazeo,Farfetch
-Seedcamp,Revolut
-Hillhouse Capital Group,GirnarSoft
-JD.com,Yintai Group
-Global Founders Capital,Goodlord
-Stripe,Fast
-Anthemis Group,AgentSync
-Elephant,KnowBe4
-Fifty Years,Deepcell
-BoxGroup,ClassPass
-Lux Capital,Astranis
-Franklin Templeton Investments,CAIS
-Wellington Management,Digit Insurance
-Operator Partners,Avi Medical
+SoftBank,Sorare
+Eurazeo,Sorare
+Seedcamp,Sorare
+Accel,Sorare
+Sequoia Capital,Traveloka
+Hillhouse Capital Group,Traveloka
+JD.com,Traveloka
+Global Founders Capital,Traveloka
+East Ventures,Traveloka
+Tencent,TrueLayer
+Stripe,TrueLayer
+Tiger Global Management,TrueLayer
+Anthemis Group,TrueLayer
+Temasek Holdings,TrueLayer
+Elephant,Triple Whale
+NFX,Triple Whale
+Digital Currency Group,Worldcoin
+Andreessen Horowitz,Worldcoin
+Hashed,Worldcoin
+Coinbase Ventures,Worldcoin
+Fifty Years,Worldcoin
+500 Startups,Shippo
+FundersClub,Shippo
+Union Square Ventures,Shippo
+BoxGroup,Shippo
+Slow Ventures,Shippo
+Lux Capital,Umba
+Bossa Nova Investimentos,Umba
+Streamlined Ventures,Umba
+Andreessen Horowitz,SpotOn
+Mubadala,SpotOn
+Coatue,SpotOn
+Franklin Templeton Investments,SpotOn
+Wellington Management,SpotOn
+Tiger Global Management,Spring Health
+RRE Ventures,Spring Health
+Operator Partners,Spring Health
+Northzone,Spring Health
 AlleyCorp,Spring Health
-IAC,Starry
-Goldman Sachs Asset Management,Accel-KKR
+IAC,Tinder
+Goldman Sachs Asset Management,Zilch
 Ventura Capital,Zilch
-dmg ventures,Hambro Perks Ltd.
+dmg ventures,Zilch
 Gauss Ventures,Zilch
 Argo Blockchain,WonderFi
 Alameda Research,WonderFi
 Canaccord Genuity Group,WonderFi
-Liquid 2 Ventures,Gem
-Initialized Capital,Cruise
-Acequia Capital (AceCap),Onfido
+Y Combinator,WorkRamp
+Liquid 2 Ventures,WorkRamp
+Initialized Capital,WorkRamp
+OMERS Ventures,WorkRamp
+Insight Partners,Tractable
+Acequia Capital (AceCap),Tractable
+Plug and Play Tech Center,Tractable
 Zetta Venture Partners,Tractable
-T. Rowe Price,Glassdoor
-Thoma Bravo,K2
+Tiger Global Management,ServiceTitan
+T. Rowe Price,ServiceTitan
+Index Ventures,ServiceTitan
+Bessemer Venture Partners,ServiceTitan
+Thoma Bravo,ServiceTitan
 MoonPay,Yuga Labs
 Genies,Yuga Labs
-Animoca Brands,Everyrealm
-Coinbase,Dfns
-PLDT,Rocket Internet
+Animoca Brands,Yuga Labs
+Coinbase,Yuga Labs
+Samsung Electronics,Yuga Labs
+Tencent,Voyager Innovations
+Susquehanna International Group (SIG),Voyager Innovations
+PLDT,Voyager Innovations
+QED Investors,TransUnion
 Mangrove Capital Partners,TransUnion
-Founder Collective,Embark
-Two Sigma Ventures,Canary
-Scale Venture Partners,Esper
-General Atlantic,Evisort
-Sofina,Mamaearth
-Point Nine,Amenitiz
-Top Tier Capital Partners,Smartsheet
-Caffeinated Capital,AgentSync
-Vulcan Capital,Eat Just
+Tiger Global Management,Socure
+T. Rowe Price,Socure
+Accel,Socure
+Founder Collective,Socure
+Two Sigma Ventures,Socure
+Seedcamp,Viz
+Insight Partners,Viz
+GV,Viz
+Tiger Global Management,Viz
+Scale Venture Partners,Viz
+Index Ventures,Typeform
+General Atlantic,Typeform
+Sofina,Typeform
+Point Nine,Typeform
+Top Tier Capital Partners,Typeform
+8VC,Socotra
+Insight Partners,Socotra
+Caffeinated Capital,Socotra
+Vulcan Capital,Socotra
+Andreessen Horowitz,Spring
+FundersClub,Spring
+Y Combinator,Spring
+Initialized Capital,Spring
+Acequia Capital (AceCap),Spring
 Zip,ZestMoney
-Quona Capital,Azimo
-Kleiner Perkins,Electronic Arts
+Goldman Sachs,ZestMoney
+PayU,ZestMoney
+Quona Capital,ZestMoney
+Coinbase Ventures,ZestMoney
+Bessemer Venture Partners,Subject
+Kleiner Perkins,Subject
 Hannah Grey,Subject
-Musha Ventures,Arcus
-Breyer Capital,Apollo Agriculture
-WndrCo,Aura
+SB Opportunity Fund,Subject
+Bossa Nova Investimentos,Subject
+Tiger Global Management,Wasoko
+Quona Capital,Wasoko
+Musha Ventures,Wasoko
+Breyer Capital,Wasoko
+8VC,Twingate
+SignalFire,Twingate
+WndrCo,Twingate
 Green Bay Ventures,Twingate
-OrbiMed,ReViral
-Vivo Capital,Bristol Myers Squibb
+RA Capital Management,Sierra Oncology
+OrbiMed,Sierra Oncology
+Vivo Capital,Sierra Oncology
 Frazier Healthcare Partners,Sierra Oncology
 Capital Midwest Fund,Sierra Oncology
+Andreessen Horowitz,Season Health
 Company Ventures,Season Health
-LRVHealth,IntelyCare
-ServiceNow,Genesys
-Khosla Ventures,Eat Just
-Kaiser Permanente,Omada Health
-Precursor Ventures,Encantos
-Capital Factory,Diligent Robotics
-K3 Ventures,Novelship
+LRVHealth,Season Health
+Lightspeed Venture Partners,ThoughtSpot
+ServiceNow,ThoughtSpot
+Khosla Ventures,ThoughtSpot
+Tiger Global Management,Spinny
+Kaiser Permanente,Spinny
+Accel,Spinny
+500 Startups,ShearShare
+Y Combinator,ShearShare
+Lightspeed Venture Partners,ShearShare
+Precursor Ventures,ShearShare
+Capital Factory,ShearShare
+Khosla Ventures,Tarana Wireless
+K3 Ventures,Tarana Wireless
 I Squared Capital,Tarana Wireless
-DTCP,Auth0
+DTCP,Tarana Wireless
 DIRECTV,Tarana Wireless
-HOF Capital,Figure
-Shrug Capital,ChartHop
+Index Ventures,SESO
+HOF Capital,SESO
+Shrug Capital,SESO
+VentureSouq,Sary
+Bossa Nova Investimentos,Sary
 rocketship.vc,Sary
 MSA Capital,Sary
-Sand Hill Angels,Apollo.io
-Revolution,Gig Wage
+T. Rowe Price,Sweetgreen
+Franklin Templeton Investments,Sweetgreen
+Sand Hill Angels,Sweetgreen
+Revolution,Sweetgreen
 Crane Venture Partners,Tinybird
-CRV,Aviatrix
-Singular,Shares
+CRV,Tinybird
+Singular,Tinybird
+Sequoia Capital,StarkWare Industries
 Ethereum Foundation,StarkWare Industries
-ConsenSys,Community Gaming
-Accenture,Ripple
-Village Capital,Global Data Consortium
-Accenture Ventures,Interos
+ConsenSys,StarkWare Industries
+Polychain,StarkWare Industries
+Coinbase Ventures,StarkWare Industries
+Accenture,SkyHive
+Deutsche Bank,SkyHive
+Village Capital,SkyHive
+Accenture Ventures,SkyHive
+Eldridge,SkyHive
+Coatue,Sweep
+Balderton Capital,Sweep
+Future Shape,Sweep
 La Famiglia,Sweep
-Greylock,Cloudera
-Science,PlayVS
+Spark Capital,Wealthfront
+Greylock,Wealthfront
+Tiger Global Management,Wealthfront
+Slow Ventures,Wealthfront
+Science,Wealthfront
 Investcorp,Xpressbees
-Norwest Venture Partners,FloQast
-Vertex Ventures,Evisort
-G Squared,Fair
+Norwest Venture Partners,Xpressbees
+Alibaba Group,Xpressbees
+Vertex Ventures,Xpressbees
+New Enterprise Associates,Xpressbees
+Union Square Ventures,Upgrade
+Coatue,Upgrade
+FirstMark,Upgrade
+G Squared,Upgrade
+Ribbit Capital,Upgrade
+Sequoia Capital,SecurityScorecard
+GV,SecurityScorecard
+T. Rowe Price,SecurityScorecard
+AXA Venture Partners,SecurityScorecard
+Two Sigma Ventures,SecurityScorecard
+Y Combinator,Veriff
+Tiger Global Management,Veriff
+Accel,Veriff
 Oregon Venture Fund,The Wild
 Elevate Capital,The Wild
 Portland Seed Fund,The Wild
 Ideaship,The Wild
-TPG,Course Hero
+Andreessen Horowitz,Tanium
+T. Rowe Price,Tanium
+Baillie Gifford,Tanium
+TPG,Tanium
+Fidelity Management and Research Company,Tanium
+Tiger Global Management,Vedantu
+Accel,Vedantu
+Coatue,Vedantu
 TAL Education Group,Vedantu
-9Unicorns Accelerator Fund,BluSmart Mobility
+9Unicorns Accelerator Fund,Vedantu
+Sequoia Capital,Thumbtack
+Tiger Global Management,Thumbtack
+Draper Associates,Thumbtack
+Baillie Gifford,Thumbtack
+G Squared,Thumbtack
+Insight Partners,Staffbase
+General Atlantic,Staffbase
 Capnamic Ventures,Staffbase
-Valor Equity Partners,AgentSync
-Bpifrance,Bigblue
-Vitruvian Partners,Darktrace
-Interplay,Black Crow AI
-Third Prime,Octane
+Techstars,Slingshot Aerospace
+Draper Associates,Slingshot Aerospace
+Valor Equity Partners,Slingshot Aerospace
+Bpifrance,Vestiaire Collective
+Eurazeo,Vestiaire Collective
+Tiger Global Management,Vestiaire Collective
+SoftBank Vision Fund,Vestiaire Collective
+Vitruvian Partners,Vestiaire Collective
+Goldman Sachs Asset Management,TemperPack
+Interplay,TemperPack
+Revolution,TemperPack
+Third Prime,TemperPack
 Careem,SWVL Technologies
 Autotech Ventures,SWVL Technologies
 Oman Technology Fund,SWVL Technologies
 BECO Capital,SWVL Technologies
-Human Capital,Flock Homes
-Floodgate,Pantheon
-OVO Fund,Juniper Square
-Forerunner Ventures,Cleo
-Greenoaks Capital,Payhawk
+Human Capital,Studio
+Floodgate,Studio
+OVO Fund,Studio
+Forerunner Ventures,Studio
+Greenoaks Capital,Studio
+Digital Currency Group,Yield Guild Games Southeast Asia
+Animoca Brands,Yield Guild Games Southeast Asia
 LongHash Ventures,Yield Guild Games Southeast Asia
 Yield Guild Games,Yield Guild Games Southeast Asia
-Menlo Ventures,Everlaw
-ff Venture Capital,Indiegogo
-Declaration Partners,ConcertAI
+Hashed,Yield Guild Games Southeast Asia
+Menlo Ventures,Sure
+ff Venture Capital,Sure
+WndrCo,Sure
+Declaration Partners,Sure
+Techstars,SmartHop
+Union Square Ventures,SmartHop
 Equal Ventures,SmartHop
-i80 | Group,Lighter Capital
-CapitalG,GirnarSoft
-TPG Growth,Everlaw
+Sequoia Capital,Watershed
+Kleiner Perkins,Watershed
+i80 | Group,Society Brands
+Lightspeed Venture Partners,Zscaler
+CapitalG,Zscaler
+EquityZen,Zscaler
+TPG Growth,Zscaler
 Intel,Volocopter
+BlackRock,Volocopter
+Daimler,Volocopter
 Honeywell,Volocopter
 Continental,Volocopter
+Temasek Holdings,UST
+Elliott Management,Wipro Technologies
 Ocean Azul Partners,Taxfyle
-IDC Ventures,Lunar
+IDC Ventures,Taxfyle
 Fuel Venture Capital,Taxfyle
-Shopify,Flexport
-Innovation Endeavors,DataRails
+Tiger Global Management,Squarespace
+T. Rowe Price,Squarespace
+Accel,Squarespace
+Fidelity Management and Research Company,Squarespace
+Index Ventures,Squarespace
+Shopify,Yotpo
+Tiger Global Management,Yotpo
+Vertex Ventures,Yotpo
+Bessemer Venture Partners,Yotpo
+Innovation Endeavors,Yotpo
 Westpac,Zip
-National Australia Bank (NAB),Lighter Capital
+National Australia Bank (NAB),Zip
 Victory Park Capital,Zip
-Eight Roads Ventures,Doceree
-Volition Capital,Chewy
+Tencent,Tile
+Slow Ventures,Tile
+Bessemer Venture Partners,Tile
+Khosla Ventures,Tile
+Eight Roads Ventures,Securonix
+Volition Capital,Securonix
+Tiger Global Management,Starry
+FirstMark,Starry
+Kohlberg Kravis Roberts,Starry
+IAC,Starry
 Lauder Partners,Starry
-Monashees,OXIO
-Propel Venture Partners,ChargeAfter
-TCV,Electronic Arts
-Valar Ventures,Bitpanda
+Union Square Ventures,Slope
+Global Founders Capital,Slope
+Monashees,Slope
+Y Combinator,Truora
+Accel,Truora
+Propel Venture Partners,Truora
+Accel,Xero
+TCV,Xero
+Valar Ventures,Xero
 Matrix Capital Management,Xero
-Stripes,fabric
-FootPrint Coalition,Turntide Technologies
-Ulu Ventures,Everlaw
-TDK Ventures,Exo
-Zoom,Genesys
-Wells Fargo,Cushman & Wakefield
-Neotribe Ventures,SpinLaunch
-Battery Ventures,Compt
-Good Friends,Black Crow AI
+Citi,Upwork
+T. Rowe Price,Upwork
+FirstMark,Upwork
+Stripes,Upwork
+New Enterprise Associates,Upwork
+Fifth Wall,Span.IO
+FootPrint Coalition,Span.IO
+Ulu Ventures,Span.IO
+Wellington Management,Span.IO
+TDK Ventures,Span.IO
+Zoom,Theta Lake
+Wells Fargo,Theta Lake
+Lightspeed Venture Partners,Theta Lake
+Neotribe Ventures,Theta Lake
+Battery Ventures,Theta Lake
+Insight Partners,Shipium
+Good Friends,Shipium
 Trilogy Equity Partners,Shipium
-Qatar Investment Authority,Fluence
+Goldman Sachs,Starling Bank
+Fidelity Management and Research Company,Starling Bank
+Qatar Investment Authority,Starling Bank
 Millennium Management,Starling Bank
-Bolt,Omni
-Serena Ventures,Fiveable
-Mayfield Fund,Finrise
-Silver Lake,Alibaba Group
-CICC,Circle
-Qualcomm,OneWeb
+Shasta Ventures,Tonal
+Bolt,Tonal
+Serena Ventures,Tonal
+L Catterton,Tonal
+Mayfield Fund,Tonal
+Silver Lake,SenseTime
+CICC,SenseTime
+IDG Capital,SenseTime
+Qualcomm,SenseTime
+Tiger Global Management,SenseTime
+Andreessen Horowitz,Workrise
+BoxGroup,Workrise
+Baillie Gifford,Workrise
 Ola,Vogo
-Lightrock,CredAvenue
-Matrix Partners India,Avail Finance
-Citibank,Capital on Tap
-Better Capital,Last9
+Kalaari Capital,Vogo
+Lightrock,Vogo
+Matrix Partners India,Vogo
+Stellaris Venture Partners,Vogo
+Citibank,The Walt Disney Company
+Tencent,Spotify
+Goldman Sachs,Spotify
+TPG,Spotify
+Accel,Spotify
+Y Combinator,Skill Lync
+Better Capital,Skill Lync
 Iron Pillar,Skill Lync
+Y Combinator,Stilt
 Bragiel Brothers,Stilt
-Venture Catalysts,BluSmart Mobility
-Inflection Point Ventures,Card91
-Access Industries,Deezer
+Streamlined Ventures,Stilt
+Andreessen Horowitz,Whatnot
+Y Combinator,Whatnot
+Liquid 2 Ventures,Whatnot
+CapitalG,Whatnot
+Techstars,Vested Finance
+Venture Catalysts,Vested Finance
+Inflection Point Ventures,Vested Finance
+9Unicorns Accelerator Fund,Vested Finance
+Greylock,Snorkel AI
+GV,Snorkel AI
+BlackRock,Snorkel AI
+Accel,Snorkel AI
+Lightspeed Venture Partners,Snorkel AI
+Access Industries,Selina
 Abraaj Group,Selina
-Warburg Pincus,Gojek
-Sierra Ventures,Clip
-Telstra Ventures,Auth0
-Samsung NEXT,OpenWeb
-Gradient Ventures,Mojo Vision
+Warburg Pincus,Zimperium
+SoftBank,Zimperium
+Sierra Ventures,Zimperium
+Telstra Ventures,Zimperium
+Samsung NEXT,Zimperium
+Sequoia Capital,Streamlit
+Gradient Ventures,Streamlit
+GGV Capital,Streamlit
 Bloomberg Beta,Streamlit
-Insignia Ventures Partners,Ajaib
-Alto Partners Multi-Family Office,Cialfo
+Y Combinator,Shipper
+Sequoia Capital India,Shipper
+Lightspeed Venture Partners,Shipper
+Insignia Ventures Partners,Shipper
+Prosus Ventures,Shipper
+Alto Partners Multi-Family Office,Snapchat
+General Atlantic,unico IDtech
 SOFTBANK Latin America Ventures,unico IDtech
 Igah Ventures.,unico IDtech
-MassVentures,Ginkgo Bioworks
+Vertex Ventures,SES
+MassVentures,SES
+Temasek Holdings,SES
 Applied Materials,SES
 General Motors,SES
-SBI Group,finleap
+SoftBank,Treasure Data
+Sierra Ventures,Treasure Data
+Scale Venture Partners,Treasure Data
+AME Cloud Ventures,Treasure Data
+SBI Group,Treasure Data
+SoftBank,ShipBob
 Wefunder,ShipBob
-Cyberstarts,Cyera
+FundersClub,ShipBob
+Y Combinator,ShipBob
+SoftBank Vision Fund,ShipBob
+Sequoia Capital,Wiz
+Insight Partners,Wiz
+Index Ventures,Wiz
+Cyberstarts,Wiz
+Insight Partners,UserTesting
+Accel,UserTesting
 Scottish Enterprise,UserTesting
-Greenspring Associates,Cyara
-OurCrowd,D-ID
-RBC Capital,Creative Destruction Lab (CDL)
-Northern Arc,Aye Finance
-Vivriti Capital,Infra.Market
+Greenspring Associates,UserTesting
+OurCrowd,Wave
+Initialized Capital,Wave
+OMERS Ventures,Wave
+RBC Capital,Wave
+HarbourVest Partners,Wave
+Northern Arc,slice
+Vivriti Capital,slice
+Insight Partners,slice
+Tiger Global Management,slice
 InCred,slice
-Alteria Capital,Avail Finance
-Novator,Nord Security
-Felix Capital,re:cap
-LocalGlobe,Ark Kapital
+Tiger Global Management,Wiz Freight
+Axilor Ventures,Wiz Freight
+Alteria Capital,Wiz Freight
+Gradient Ventures,Sona
+Speedinvest,Sona
+Novator,Sona
+Spark Capital,TravelPerk
+Felix Capital,TravelPerk
+LocalGlobe,TravelPerk
 SenseTime,WeRide
-The Carlyle Group,Delhivery
+IDG Capital,WeRide
+The Carlyle Group,WeRide
 Bosch,WeRide
-Qiming Venture Partners,LanzaTech
+Qiming Venture Partners,WeRide
+Goldman Sachs,Terran Orbital
+Andreessen Horowitz,Sift
+Spark Capital,Sift
 Glassdoor,Sift
-Right Side Capital Management,Arena.im
-Kapor Capital,BlocPower
-Bracket Capital,Arcadia
-Delivery Hero,Foodpanda
-Sumeru Equity Partners,Beqom
-Idinvest Partners,Deezer
+Union Square Ventures,Sift
+Insight Partners,Sift
+Techstars,Upsie
+Village Capital,Upsie
+Right Side Capital Management,Upsie
+Kapor Capital,Upsie
+Gaingels,Thirty Madison
+Bracket Capital,Thirty Madison
+Northzone,Thirty Madison
+Delivery Hero,tabby
+Mubadala,tabby
+VentureSouq,tabby
+Global Founders Capital,tabby
+HOF Capital,tabby
+Silver Lake,Talend
+Bpifrance,Talend
+Balderton Capital,Talend
+Sumeru Equity Partners,Talend
+Idinvest Partners,Talend
+Khaira Capital,Skims
 Thrive Capital,Skims
-Lone Pine Capital,Chewy
+Lone Pine Capital,Skims
+Spark Capital,SmartRent
+Fifth Wall,SmartRent
 UDR,SmartRent
-Energy Impact Partners,Attivo Networks
-Bain Capital Ventures,Attivo Networks
-AirTree Ventures,Go1
+Energy Impact Partners,SmartRent
+Bain Capital Ventures,SmartRent
+AirTree Ventures,Zepto
+Khosla Ventures,SWORD Health
+Stripes,Spectro Cloud
+Sierra Ventures,Spectro Cloud
 WestWave Capital,Spectro Cloud
 T-Mobile Ventures,Spectro Cloud
 Boldstart Ventures,Spectro Cloud
-Haystack,Esper
-B Capital Group,CredAvenue
-Jump Capital,Bitpanda
+Sequoia Capital,Skiff
+SV Angel,Skiff
+Andreessen Horowitz,Trunk
+Garage Capital,Trunk
+Initialized Capital,Trunk
+Haystack,Trunk
+Techstars,Veho
+Tiger Global Management,Veho
+SoftBank Vision Fund,Veho
+B Capital Group,Zipmex
+Jump Capital,Zipmex
 MindWorks Capital,Zipmex
 TNB AURA,Zipmex
 Plan B Media,Zipmex
-Protocol Labs,Functionland
-Tusk Venture Partners,FanDuel
-Summit Partners,Bigpoint
+Silver Lake,Zynga
+Google,Zynga
+Andreessen Horowitz,Zynga
+Morgan Stanley,Zynga
+Union Square Ventures,Zynga
+Gaingels,Unstoppable Domains
+Draper Associates,Unstoppable Domains
+Protocol Labs,Unstoppable Domains
+Coinbase Ventures,Unstoppable Domains
+Y Combinator,ZeroStorefront
+Ulu Ventures,ZeroStorefront
+JP Morgan,Wheel
+Tiger Global Management,Wheel
+Coatue,Wheel
+Lightspeed Venture Partners,Wheel
+Tusk Venture Partners,Wheel
+Insight Partners,Smartsheet
+Summit Partners,Smartsheet
+Top Tier Capital Partners,Smartsheet
 Madrona Venture Group,Smartsheet
 Sutter Hill Ventures,Smartsheet
+GV,SpinLaunch
 Alphabet,SpinLaunch
+Bolt,SpinLaunch
+Kleiner Perkins,SpinLaunch
+Neotribe Ventures,SpinLaunch
+SoftBank,Solarisbank
 finleap,Solarisbank
-Visa,ChargeAfter
-Banco Bilbao Vizcaya Argentaria,Porsche
-Juniper Networks,Alchemist Accelerator
-Dell Technologies Capital,Netskope
-Alkeon Capital,Drata
+Visa,Solarisbank
+Banco Bilbao Vizcaya Argentaria,Solarisbank
+Vulcan Capital,Solarisbank
+Juniper Networks,Vectra
+Matrix Partners,Vectra
+Accel,Vectra
+Khosla Ventures,Vectra
+IA Ventures,Vectra
+8VC,Yugabyte
+Lightspeed Venture Partners,Yugabyte
+Dell Technologies Capital,Yugabyte
+Alkeon Capital,Yugabyte
+Greenspring Associates,Yugabyte
+Eldridge,Viral Nation
 Schneider Electric,Sense
-OfBusiness,FarMart
+Bolt,Sense
+Energy Impact Partners,Sense
+Northern Arc,UpScalio
+OfBusiness,UpScalio
 468 Capital,UpScalio
 Kingsway Capital,UpScalio
 Heliad Equity Partners,UpScalio
+Fifth Wall,Turntide Technologies
+FootPrint Coalition,Turntide Technologies
 Breakthrough Energy Ventures,Turntide Technologies
 BMW i Ventures,Turntide Technologies
+Insight Partners,SmartBear
+Quona Capital,Yoco
+Musha Ventures,Yoco
+HOF Capital,Yoco
+Breyer Capital,Yoco
+500 Startups,Thrive Agric
+Y Combinator,Thrive Agric
 Ventures Platform,Thrive Agric
 West Africa Trade Hub,Thrive Agric
-Crowdcube,FIDEL API
+Crowdcube,what3words
+Daimler,what3words
+VentureSouq,what3words
 Aramex International,what3words
+SoftBank Vision Fund,Yanolja
+GIC,Yanolja
 Sky Lake Investment,Yanolja
-Flipkart,Flipkart
-Mirae Asset Global Investments,FinAccel
+Flipkart,Shadowfax
+Mirae Asset Global Investments,Shadowfax
+Qualcomm Ventures,Shadowfax
+International Finance Corporation,Shadowfax
+Eight Roads Ventures,Shadowfax
+Tencent,Voodoo
+Goldman Sachs,Voodoo
 Tikehau Capital,Voodoo
-SAIF Partners,BookMyShow
+SAIF Partners,Voodoo
+Goldman Sachs,Unqork
 Broadridge,Unqork
+BlackRock,Unqork
+HOF Capital,Unqork
+Fin Venture Capital,Unqork
 UST,Trulioo
+Goldman Sachs,Trulioo
+Plug and Play Tech Center,Trulioo
+TCV,Trulioo
 Blumberg Capital,Trulioo
+TCV,Zillow
 Legg Mason,Zillow
 PAR Capital Management,Zillow
 Lighter Capital,Stylitics
-PeakSpan Capital,Cyara
-Wing Venture Capital,Obsidian Security
+PeakSpan Capital,Stylitics
+Sequoia Capital,Snowflake
+Redpoint,Snowflake
+Wing Venture Capital,Snowflake
+Human Capital,Snowflake
 Capital One,Snowflake
-Partech,Five9
-BNP Paribas,Capital on Tap
+Partech,Weglot
+JP Morgan,Saphyre
+BNP Paribas,Saphyre
 HCAP Partners,Saphyre
+Anthemis Group,Skuad
+Alto Partners Multi-Family Office,Skuad
+BEENEXT,Skuad
 Mindlance,Skuad
+Tiger Global Management,Upstox
+Kalaari Capital,Upstox
 GVK Davix Technologies,Upstox
 IIFL Wealth Management,Toothsi
+Eight Roads Ventures,Toothsi
 Stride Ventures,Toothsi
+Franklin Templeton Investments,Simpl
+FJ Labs,Simpl
+IA Ventures,Simpl
+Valar Ventures,Simpl
 Green Visor Capital,Simpl
-Moderne Ventures,Kaiyo
+Insight Partners,Snappt
+Moderne Ventures,Snappt
 K50 Ventures,Snappt
-EDBI,Bitmain
+Insight Partners,WalkMe
+Vitruvian Partners,WalkMe
+Scale Venture Partners,WalkMe
+EDBI,WalkMe
+Greenspring Associates,WalkMe
+Anthemis Group,Sydecar
 Hustle Fund,Sydecar
 Deciens Capital,Sydecar
-S2G Ventures,IUNU
+Techstars,TradeLanes
+S2G Ventures,TradeLanes
 Bread and Butter Ventures (fka The Syndicate Fund),TradeLanes
 Closed Loop Partners,TradeLanes
 Innova Memphis,TradeLanes
-Western Technology Investment,Finrise
-Zeev Ventures,DataRails
-Sequoia Capital China,Bitmain
+Fifth Wall,Veev
+Khosla Ventures,Veev
+Western Technology Investment,Veev
+Zeev Ventures,Veev
+GV,SambaNova Systems
+BlackRock,SambaNova Systems
+SoftBank Vision Fund,SambaNova Systems
+Temasek Holdings,SambaNova Systems
+GIC,SambaNova Systems
+IDG Capital,Shein
+Tiger Global Management,Shein
+Sequoia Capital China,Shein
+General Atlantic,Shein
 JAFCO Asia,Shein
+Global Founders Capital,Shares
+Valar Ventures,Shares
 Red Sea Ventures,Shares
-Azure Capital Partners,K2
+Singular,Shares
+Stripe,Stellar Development Foundation
+Azure Capital Partners,Selector
 Atlantic Bridge,Selector
 SineWave Ventures,Selector
 Two Bear Capital,Selector
-Comcast Ventures,AOL
+Comcast Ventures,Selector
 Barclays Investment Bank,Telefonica
 BBVA Ventures,Telefonica
-K1 Investment Management,Cyara
-BITKRAFT Ventures,Community Gaming
-Credit Suisse,FINN
-Venrex,OTA Insight
-DN Capital,Everli
-Winklevoss Capital,Ethereum Foundation
+K1 Investment Management,TokenEx
+Animoca Brands,Yield Guild Games
+Andreessen Horowitz,Yield Guild Games
+BlockTower Capital,Yield Guild Games
+BITKRAFT Ventures,Yield Guild Games
+Silver Lake,Zuora
+Greylock,Zuora
+Redpoint,Zuora
+BlackRock,Zuora
+Index Ventures,Zuora
+Citi,Xerox
+JP Morgan Chase,Xerox
+Goldman Sachs,Xerox
+Credit Suisse,Xerox
+Anthemis Group,Seedcamp
+Venrex,Seedcamp
+Balderton Capital,Seedcamp
+LocalGlobe,Seedcamp
+DN Capital,Seedcamp
+Lightrock,Vivriti Capital
+Y Combinator,Volopay
+VentureSouq,Volopay
+Winklevoss Capital,Volopay
 Access Ventures,Volopay
 Nokia,Team8
-Microsoft,Cruise
-AT&T,Fiveable
+Accenture,Team8
+Microsoft,Team8
+AT&T,Team8
+Qualcomm,Team8
+Idinvest Partners,Schneider Electric
 Tencent Music Entertainment,Warner Music Group
-Caisse de Depot et Placement du Quebec,Dialogue
-Canada Pension Plan Investment Board,Altice USA
+Caisse de Depot et Placement du Quebec,Sedgwick Claims Management Services
+Canada Pension Plan Investment Board,Sedgwick Claims Management Services
+JP Morgan Chase,The Boeing Company
+Citibank,The Boeing Company
 Pierce,The Boeing Company
 Inc.,The Boeing Company
+Third Prime,SeedInvest
 Great Oaks Venture Capital,SeedInvest
 Scout Ventures,SeedInvest
 Krillion Ventures,SeedInvest
-DCM Ventures,fuboTV
+Norwest Venture Partners,Singular
+Telstra Ventures,Singular
+DCM Ventures,Singular
 Coil,Uphold
 Hard Yaka,Uphold
 Venovate,Uphold
-NewSpring,ExecOnline
+SoftBank,SoFi
+Silver Lake,SoFi
+Morgan Stanley,SoFi
+QED Investors,SoFi
+Spark Capital,Scale AI
+Y Combinator,Scale AI
+Tiger Global Management,Scale AI
+Accel,Scale AI
+Coatue,Scale AI
+SoftBank,WME
+Silver Lake,WME
+Canada Pension Plan Investment Board,WME
+Andreessen Horowitz,Slack
+Spark Capital,Slack
+FundersClub,Slack
+GV,Slack
+Initialized Capital,Slack
+Silver Lake,TAL Education Group
+Warburg Pincus,WuXi AppTec
+NewSpring,WuXi AppTec
+Eight Roads Ventures,WuXi AppTec
+Accel,trica
 Secocha Ventures,trica
-White Star Capital,Dfns
+Wavemaker Partners,Science
+White Star Capital,Science
+Hearst Ventures,Science
+Lightspeed Venture Partners,Wintermute Trading
+Hack VC,Wintermute Trading
 Kenetic,Wintermute Trading
-Pantera Capital,Ankr
-FBG Capital,RockX
-Tech Coast Angels,Esper
-Cisco,Puppet
-GoBeyond,GoBeyond
+Pantera Capital,Wintermute Trading
+FBG Capital,Wintermute Trading
+Tech Coast Angels,Tech Coast Angels
+US Department of Energy,Siemens
+Cisco,Startupbootcamp
+GoBeyond,Startupbootcamp
 LVenture Group,Startupbootcamp
 TNB Financial Services,Visa
-2TM,Abra
-True Ventures,Automattic
-Hummingbird Ventures,Kraken
-Hellman & Friedman,Genesys
+2TM,TC - TradersClub
+Sequoia Capital,Yahoo
+Visa,Yahoo
+SoftBank Capital,Yahoo
+Plug and Play Tech Center,Sherpa
+Bossa Nova Investimentos,Sherpa
+True Ventures,Sherpa
+Spark Capital,Sonder
+Greylock,Sonder
+BlackRock,Sonder
+Valor Equity Partners,Sonder
+500 Startups,The Family
+Index Ventures,The Family
+Hummingbird Ventures,The Family
+White Star Capital,The Family
+Silver Lake,Splunk
+Hellman & Friedman,Splunk
+TCV,Splunk
 August Capital,Splunk
 Faber,Seedrs
 Woodford Investment Management,Seedrs
+Sequoia Capital,ServiceNow
+Greylock,ServiceNow
+Goldman Sachs Asset Management,TriplePoint Venture Growth
 European Bank for Reconstruction and Development,Zabka Polska
+Tencent,Yintai Group
+JD.com,Yintai Group
 Baidu,Yintai Group
-Tribe Capital,Apollo.io
+Zomato,Shiprocket
+Gaingels,Shiprocket
+500 Startups,Shiprocket
+Tribe Capital,Shiprocket
 Razorpay,Shiprocket
-HSBC,ConsenSys
+HSBC,Saudi Arabia's Public Investment Fund
+JP Morgan Chase,Saudi Arabia's Public Investment Fund
+Goldman Sachs,Saudi Arabia's Public Investment Fund
 Antares Capital,Vestar Capital Partners
+HarbourVest Partners,Vestar Capital Partners
 Spotify,Tencent Music Entertainment
+Morgan Stanley,Workday
+Greylock,Workday
+Kalaari Capital,Workday
+T. Rowe Price,Workday
+New Enterprise Associates,Workday
 Groupon,StartX (Stanford-StartX Fund)
-Stanford University,EdCast
-NextView Ventures,Reforge
-Graph Ventures,Extend
-Upfront Ventures,Envestnet
-LedgerPrime,bitsCrunch
-LD Capital,CoinList
+AT&T,StartX (Stanford-StartX Fund)
+Cisco,StartX (Stanford-StartX Fund)
+Stanford University,StartX (Stanford-StartX Fund)
+Warburg Pincus,United Internet Ventures
+NextView Ventures,Strive
+Graph Ventures,Strive
+Kapor Capital,Strive
+Upfront Ventures,Strive
+Hashed,Unbound Finance
+LedgerPrime,Unbound Finance
+LD Capital,Unbound Finance
 Aphria,Sol Global investments
+Cisco,Stellaris Venture Partners
+Insight Partners,Vela
+Accenture,Youth Business International
 Wipro Ventures,TLV Partners
-Venrock,Cloudflare
+Dyal Capital Partners,Sixth Street
+Morgan Stanley,Tikehau Capital
+Y Combinator,Trestle
+Venrock,Intel
 Arthur Rock & Co,Intel
+Apple,Ramp
+Citi,Ramp
+Stripe,Ramp
 Flexport,Ramp
-Steadview Capital,RBL Bank
+Spark Capital,Ramp
+Fidelity Management and Research Company,Nykaa
+Steadview Capital,Nykaa
+TPG Growth,Nykaa
 Max Ventures and Industries,Nykaa
-Apollo,Airbnb
+Apollo,Liquidity
+Spark Capital,Liquidity
 MUFG Bank,Liquidity
 MUFG Innovation Partners,Liquidity
-Augmentum Fintech,ParaFi Capital
-LG Group,Blockchain.com
-Rakuten,Carousell
-Berkshire Hathaway,Aon plc
+Seedcamp,Grover
+Global Founders Capital,Grover
+Augmentum Fintech,Grover
+LG Group,Grover
+Energy Impact Partners,Grover
+Tencent,Lyft
+Andreessen Horowitz,Lyft
+Rakuten,Lyft
+Alibaba Group,Lyft
+M13,Lyft
+Berkshire Hathaway,HP
+Animoca Brands,Polygon
+Digital Currency Group,Polygon
+Galaxy Digital,Polygon
 Celsius Network,Polygon
 Voodoo,Polygon
-TriplePoint Capital,Credit Kudos
-DARPA,ForAllSecure
+Microsoft,Meta
+Greylock,Meta
+Tiger Global Management,Meta
+Accel,Meta
+Sequoia Capital,NVIDIA
+SoftBank Vision Fund,NVIDIA
+TriplePoint Capital,NVIDIA
+DARPA,NVIDIA
+Morgan Stanley,NYDIG
 Affirm,NYDIG
-MassMutual,Policygenius
+Bessemer Venture Partners,NYDIG
+MassMutual,NYDIG
+Ribbit Capital,NYDIG
+Goldman Sachs,Pensando
+Qualcomm Ventures,Pensando
+Lightspeed Venture Partners,Pensando
 Hewlett Packard Enterprise,Pensando
-Nexus Venture Partners,Druva
-Shunwei Capital,iQiyi
+Swiggy,Rapido
+Nexus Venture Partners,Rapido
+Shunwei Capital,Rapido
+TPG,Lenovo
+General Atlantic,Lenovo
 Legend Holdings,Lenovo
 Chinese Academy Of Sciences,Lenovo
 The Parent Company,Lenovo
-Trinity Capital,DigitalOcean
+Flipkart,Pine Labs
+Invesco,Pine Labs
+Mastercard,Pine Labs
+BlackRock,Pine Labs
+Temasek Holdings,Pine Labs
+Tiger Global Management,GupShup
+Fidelity Management and Research Company,GupShup
+CRV,GupShup
+Trinity Capital,GrubMarket
+Gaingels,GrubMarket
+Y Combinator,GrubMarket
+Tiger Global Management,GrubMarket
+Sequoia Capital,Okta
+Andreessen Horowitz,Okta
+Greylock,Okta
+Khosla Ventures,Okta
+Floodgate,Okta
+Google,Niantic
+Spark Capital,Niantic
+Coatue,Niantic
 Nintendo,Niantic
-EQT Ventures,HackerOne
-Ceras Ventures,Fasset
-LetsVenture,BluSmart Mobility
-Google for Startups,Rupifi
-Alpha Wave Global,Aye Finance
-Walmart,JD.com
-Cathay Innovation,54gene
+Animoca Brands,Nothing
+Crowdcube,Nothing
+GV,Nothing
+EQT Ventures,Nothing
+Gaingels,Republic
+Tribe Capital,Republic
+Binance,Republic
+Ceras Ventures,Republic
+Valor Equity Partners,Republic
+Insight Partners,Kaseya
+TPG,Kaseya
+LetsVenture,PhableCare
+Kalaari Capital,PhableCare
+Inflection Point Ventures,PhableCare
+Google for Startups,PhableCare
+JP Morgan,Grafana Labs
+Sequoia Capital,Grafana Labs
+Coatue,Grafana Labs
+Lightspeed Venture Partners,Grafana Labs
+GIC,Grafana Labs
+SoftBank,Ola Electric
+Tiger Global Management,Ola Electric
+Temasek Holdings,Ola Electric
+Alpha Wave Global,Ola Electric
+Matrix Partners India,Ola Electric
+Tencent,PhonePe
+Flipkart,PhonePe
+Tiger Global Management,PhonePe
+Walmart,PhonePe
+Microsoft,Laiye
+Lightspeed Venture Partners,Laiye
+Sequoia Capital China,Laiye
+Cathay Innovation,Laiye
 Lightspeed China Partners,Laiye
 Xerox,LinkSquares
+Jump Capital,LinkSquares
+G Squared,LinkSquares
 Hyperplane Venture Capital,LinkSquares
 Touchdown Ventures,LinkSquares
-Reach Capital,Bitwise Industries
+Spark Capital,Handshake
+Reach Capital,Handshake
+Coatue,Handshake
+Lightspeed Venture Partners,Handshake
+EQT Ventures,Handshake
 Gemini,LayerZero Labs
 Polygon,LayerZero Labs
-Dapper Labs,Everyrealm
-Asymmetry Ventures,Dapio
-WestBridge Capital,IndiQube
-Amadeus Capital Partners,FiveAI
-Cherry Ventures,Forto
-FinTech Collective,OXIO
-Lenovo,CertiK
-Institutional Venture Partners,CircleCI
-Foundation Capital,Envestnet
+Sequoia Capital,LayerZero Labs
+Andreessen Horowitz,LayerZero Labs
+Dapper Labs,LayerZero Labs
+GV,Puppet
+BlackRock,Puppet
+Cisco,Puppet
+Kleiner Perkins,Puppet
+Microsoft,OpenAI
+Y Combinator,OpenAI
+Khosla Ventures,OpenAI
+500 Startups,Pipefy
+FundersClub,Pipefy
+Insight Partners,Pipefy
+Asymmetry Ventures,Pipefy
+Banco Bilbao Vizcaya Argentaria,Porsche
+Quona Capital,IndiaMART
+WestBridge Capital,IndiaMART
+Intel Capital,IndiaMART
+Amadeus Capital Partners,IndiaMART
+Cherry Ventures,Mondu
+FinTech Collective,Mondu
+Tencent,NIO
+Lenovo,NIO
+IDG Capital,NIO
+Hillhouse Capital Group,NIO
+Baillie Gifford,NIO
+Tencent,Qonto
+Gaingels,Qonto
+Eurazeo,Qonto
+Insight Partners,Qonto
+Tiger Global Management,Qonto
+Institutional Venture Partners,Netflix
+TCV,Netflix
+Foundation Capital,Netflix
 Comdisco Ventures,Netflix
+Andreessen Horowitz,Helium
 Liberty Global,Helium
-Amber Group,RockX
-ParaFi Capital,Aave
+Union Square Ventures,Helium
+Tiger Global Management,Helium
+GV,Helium
+500 Startups,MURAL
+Insight Partners,MURAL
+Tiger Global Management,MURAL
+Gradient Ventures,MURAL
+Amber Group,NEAR Protocol
+Hashed,NEAR Protocol
+Tiger Global Management,NEAR Protocol
+ParaFi Capital,NEAR Protocol
+Coinbase Ventures,NEAR Protocol
+Morgan Stanley,Hourwork
 OneValley,Hourwork
-Avenir Growth Capital,Current
+MassVentures,Hourwork
+MassMutual,Hourwork
+SoftBank Vision Fund,Pax8
+Avenir Growth Capital,Pax8
 Blue Cloud Ventures,Pax8
 Catalyst Investors,Pax8
+Quona Capital,JULO
+East Ventures,JULO
 Gobi Partners,JULO
 Skystar Capital,JULO
-Credit Saison,Gojo & Company
+Credit Saison,JULO
+Andreessen Horowitz,Improbable
+SoftBank Vision Fund,Improbable
+Temasek Holdings,Improbable
+Horizons Ventures,Improbable
 NetEase,Improbable
+IDG Capital,Razer
+Accel,Razer
+Horizons Ventures,Razer
+Intel Capital,Razer
 Lianluo,Razer
-WME,Heap
+RRE Ventures,Maude
+WME,Maude
+Outbound Ventures,Maude
 True.,Maude
 CASSIUS Family,Maude
-Airbnb,ID.me
-Grab,Emtek Group
+SoftBank,OYO
+Microsoft,OYO
+Airbnb,OYO
+Grab,OYO
+SoftBank Vision Fund,OYO
+Tencent,Omnipresent
 Episode 1,Omnipresent
 Playfair Capital,Omnipresent
+Redpoint,Knock
+RRE Ventures,Knock
+Foundry Group,Knock
+FJ Labs,Knock
+8VC,Mojo Vision
 PTC,Mojo Vision
-Addition,Avi Medical
-Rocket Internet,Delivery Hero
-Lerer Hippeau,Birchbox
-Correlation Ventures,BoostUp.ai
+Khosla Ventures,Mojo Vision
+Gradient Ventures,Mojo Vision
+New Enterprise Associates,Mojo Vision
+SoftBank,PlayVS
+Coatue,PlayVS
+Science,PlayVS
+New Enterprise Associates,PlayVS
+Lux Capital,Hugging Face
+Addition,Hugging Face
+SV Angel,Hugging Face
+Ripple,Nium
+MDI Ventures,Nium
+GSR Ventures,Nium
+Vertex Ventures,Nium
+Rocket Internet,Nium
+Tiger Global Management,SaltPay
+Lerer Hippeau,Kaiyo
+Correlation Ventures,Kaiyo
+Moderne Ventures,Kaiyo
 Netflix,Roku
 News Corp,Roku
+Menlo Ventures,Roku
 Good Technology,Roku
+Village Capital,Khazna
 Lendable,Khazna
+Quona Capital,Khazna
+Speedinvest,Khazna
+Insight Partners,Postman
+Coatue,Postman
+Nexus Venture Partners,Postman
+Battery Ventures,Postman
+Tencent,Jeeves
+Andreessen Horowitz,Jeeves
+Gaingels,Jeeves
 BlockFi,Jeeves
-LAUNCH,Abra
+Sequoia Capital,Robinhood
+Andreessen Horowitz,Robinhood
+GV,Robinhood
+LAUNCH,Robinhood
+Slow Ventures,Robinhood
 Okta,Pipe
-Republic,CoinDCX
+Republic,Pipe
+Shopify,Pipe
 HubSpot,Pipe
-In-Q-Tel,Cloudera
+Tribe Capital,Pipe
+Sequoia Capital,Lilt
+Redpoint,Lilt
+In-Q-Tel,Lilt
+Intel Capital,Lilt
+Sorenson Capital,Lilt
+Techstars,Pixxel
+Lightspeed Venture Partners,Pixxel
 Creative Destruction Lab (CDL),Pixxel
 Seraphim Capital,Pixxel
 Cowen Digital,PolySign
+GSR Ventures,PolySign
 Cowen Group,PolySign
 Brevan Howard Asset Management,PolySign
+Eight Roads Ventures,Moneybox
 Breega,Moneybox
-Hambro Perks Ltd.,Habyt
+Hambro Perks Ltd.,Moneybox
 Samos Investments,Moneybox
-Fidelity International Strategic Ventures,Moonfare
-European Investment Bank,Ericsson
-Nordic Investment Bank,Ericsson
+Fidelity International Strategic Ventures,Moneybox
+European Investment Bank,Nokia
+Nordic Investment Bank,Nokia
+Tencent,Riot Games
 HAX,Riot Games
+FirstMark,Riot Games
+Tiger Global Management,ITILITE
+Matrix Partners,ITILITE
+Matrix Partners India,ITILITE
+Silver Lake,Motorola Solutions
+Norwest Venture Partners,Policygenius
 Global Atlantic,Policygenius
-Casdin Capital,Arzeda
-Novartis,Freenome
-3one4 Capital,OPEN
+AXA Venture Partners,Policygenius
+MassMutual,Policygenius
+Kohlberg Kravis Roberts,Policygenius
+Qiming Venture Partners,LetsGetChecked
+Casdin Capital,LetsGetChecked
+Optum Ventures,LetsGetChecked
+SoftBank,Roche
+Novartis,Roche
+SoftBank,OfBusiness
+Norwest Venture Partners,OfBusiness
+Tiger Global Management,OfBusiness
+SoftBank Vision Fund,OfBusiness
+Alpha Wave Global,OfBusiness
+Temasek Holdings,Licious
+Vertex Ventures,Licious
+3one4 Capital,Licious
+Mayfield Fund,Licious
+IIFL Finance,Licious
 REA Group,PropertyGuru Group
-Warner Music Group,Overwolf
+Baillie Gifford,PropertyGuru Group
+TPG,PropertyGuru Group
+Emtek Group,PropertyGuru Group
+Kohlberg Kravis Roberts,PropertyGuru Group
+Insight Partners,Kpler
+Tencent,Roblox
+Andreessen Horowitz,Roblox
+Warner Music Group,Roblox
+Greylock,Roblox
+Tiger Global Management,Roblox
+Norwest Venture Partners,Oxyzo
+Tiger Global Management,Oxyzo
+Matrix Partners,Oxyzo
+Alpha Wave Global,Oxyzo
+Sequoia Capital,Island
+Insight Partners,Island
+Stripes,Island
+Cyberstarts,Island
+Novator,Nord Security
+Y Combinator,HackerRank
+Khosla Ventures,HackerRank
+SV Angel,HackerRank
+Battery Ventures,HackerRank
 Susquehanna Growth Equity,HackerRank
+Insight Partners,Moonfare
+Vitruvian Partners,Moonfare
+Fidelity International Strategic Ventures,Moonfare
+Andreessen Horowitz,Hadrian
+Lux Capital,Hadrian
+Caffeinated Capital,Hadrian
 DoorDash,Roofstock
-Bain Capital,Attivo Networks
-Janus Henderson Investors,Apartment List
+SoftBank Vision Fund,Roofstock
+QED Investors,Roofstock
+Bain Capital,Roofstock
+Lightspeed Venture Partners,Roofstock
+Insight Partners,Rattle
+GV,Rattle
+Sequoia Capital India,Rattle
+Garage Capital,OpenPhone
+Tiger Global Management,OpenPhone
+Y Combinator,OpenPhone
+Slow Ventures,OpenPhone
+Craft Ventures,OpenPhone
+Sequoia Capital,HubSpot
+GV,HubSpot
+Matrix Partners,HubSpot
+Scale Venture Partners,HubSpot
+Janus Henderson Investors,IntelyCare
 Longitude Capital,IntelyCare
+LRVHealth,IntelyCare
 Kaiser Permanente Ventures,IntelyCare
 Endeavour Vision,IntelyCare
+Tencent,Lunar
+IDC Ventures,Lunar
 Greyhound Capital,Lunar
 LeapFrog Investments,Northern Arc
 Standard Chartered Bank,Northern Arc
 Kotak Mahindra Bank,Northern Arc
+Eight Roads Ventures,Northern Arc
+Digital Currency Group,Ledger
+Animoca Brands,Ledger
+Bpifrance,Ledger
+Draper Associates,Ledger
 Uphold,Ledger
-Evolution VC Partners,Future Family
+Sequoia Capital,MongoDB
+Goldman Sachs,MongoDB
+Union Square Ventures,MongoDB
+T. Rowe Price,MongoDB
+Andreessen Horowitz,Greenlight
+JP Morgan Chase,Greenlight
+Goodwater Capital,Greenlight
+Wells Fargo,Greenlight
+Evolution VC Partners,Greenlight
 New Mountain Capital,IRI
 Vestar Capital Partners,IRI
+DCVC,Gro Intelligence
+GGV Capital,Gro Intelligence
+Intel Capital,Gro Intelligence
+Bossa Nova Investimentos,Gro Intelligence
 One Planet Group,Gro Intelligence
+Gaingels,Pacaso
+Fifth Wall,Pacaso
+SoftBank Vision Fund,Pacaso
+Lux Capital,Lumafield
+LAUNCH,Lumafield
+DCVC,Lumafield
+Haystack,Lumafield
+Tencent,Rakuten
+Walmart,Rakuten
+Intel Capital,Rakuten
 MVI (MENA Venture Investments),Rakuten
 Japan Post Holdings,Rakuten
+Berkshire Hathaway,Kroger
+Highland Capital Partners,Huntress
 SaaS Ventures,Huntress
-Forgepoint Capital,Attivo Networks
+Forgepoint Capital,Huntress
 Blu Venture Investors,Huntress
+Venture Catalysts,Instoried
 EXPERT DOJO,Instoried
-Mumbai Angels,Purplle
+9Unicorns Accelerator Fund,Instoried
+Mumbai Angels,Instoried
+Sequoia Capital,Rebel Foods
+Goldman Sachs,Rebel Foods
 Gojek,Rebel Foods
-CDC Group,AgroStar
-Rebright Partners,MediBuddy
-AngelList,Blockstream
+Coatue,Rebel Foods
+Sequoia Capital India,Rebel Foods
+CDC Group,Medikabazaar
+Rebright Partners,Medikabazaar
+500 Startups,Intercom
+GV,Intercom
+Index Ventures,Intercom
+Bessemer Venture Partners,Intercom
+Vulcan Capital,Intercom
+AngelList,Newton School
+Nexus Venture Partners,Newton School
+Gaingels,Natural Fiber Welding
+Advantage Capital,Natural Fiber Welding
+Evolution VC Partners,Natural Fiber Welding
 Advantage Capital,Medtronic
 Trade Capital Funding,Medtronic
-Altos Ventures,Delivery Hero
-Flybridge,ChartHop
-Sixth Street,Amplience
+Tencent,Krafton
+Altos Ventures,Krafton
+Goldman Sachs,Nasuni
+Flybridge,Nasuni
+Sixth Street,Nasuni
+Dell Technologies Capital,Nasuni
 Rockwell Automation,PTC
+Blockchain Capital,Parallel Finance
+Polychain,Parallel Finance
+Slow Ventures,Parallel Finance
+Coinbase Ventures,Parallel Finance
+Lightspeed Venture Partners,Parallel Finance
+Citi,Hopper
+Goldman Sachs,Hopper
 Brightspark Ventures,Hopper
-Neuberger Berman Group,Duck Creek Technologies
-BlackSoil,BluSmart Mobility
+OMERS Ventures,Hopper
+Khaira Capital,Hopper
+Greylock,Obsidian Security
+Norwest Venture Partners,Obsidian Security
+GV,Obsidian Security
+Menlo Ventures,Obsidian Security
+Wing Venture Capital,Obsidian Security
+Redpoint,Juniper Square
+Ribbit Capital,Juniper Square
+Precursor Ventures,Juniper Square
+OVO Fund,Juniper Square
+Zigg Capital,Juniper Square
+Neuberger Berman Group,Rocket Lab
+BlackRock,Rocket Lab
+Bessemer Venture Partners,Rocket Lab
+DCVC,Rocket Lab
+Khosla Ventures,Rocket Lab
+Google,Planet
+Lux Capital,Planet
+BlackRock,Planet
+Animoca Brands,GOQii
+Galaxy Digital,GOQii
+BlackSoil,GOQii
+Venture Catalysts,GOQii
+9Unicorns Accelerator Fund,GOQii
+Digital Currency Group,Lightning Labs
 NYDIG,Lightning Labs
-Siemens,Alchemist Accelerator
+M13,Lightning Labs
+RRE Ventures,Lightning Labs
+Slow Ventures,Lightning Labs
+8VC,Omni
+Bolt,Omni
+Flybridge,Omni
+Goldman Sachs,Northvolt
+Bpifrance,Northvolt
+Siemens,Northvolt
+Baillie Gifford,Northvolt
 InnoEnergy,Northvolt
-Wamda Capital,Careem
-Blume Ventures,Euler Motors
+Sequoia Capital India,LambdaTest
+Surge,LambdaTest
+Wamda Capital,LambdaTest
+Blume Ventures,LambdaTest
 Farfetch,Neiman Marcus Group
+Silver Lake,Reliance Retail
 Saudi Arabia's Public Investment Fund,Reliance Retail
-Atomico,ChannelEngine
+TPG,Reliance Retail
+Mubadala,Reliance Retail
+General Atlantic,Reliance Retail
+SoftBank Vision Fund,Gympass
+Atomico,Gympass
+General Atlantic,Gympass
 Kaszek,Gympass
+Tencent,GoTo Group
+Google,GoTo Group
+Temasek Holdings,GoTo Group
 Primavera Capital Group,GoTo Group
-Abu Dhabi Investment Authority,Bandhan Bank
+Abu Dhabi Investment Authority,GoTo Group
+Tiger Global Management,Moveworks
+Bain Capital,Moveworks
+Lightspeed Venture Partners,Moveworks
+Kleiner Perkins,Moveworks
+Bain Capital Ventures,Moveworks
+Morgan Stanley,Lineage Logistics
 Rabobank,Lineage Logistics
 Amicus Capital,MCaffeine
+SoftBank,OneWeb
+Qualcomm,OneWeb
+Qualcomm Ventures,OneWeb
 Airbus,OneWeb
-EQT,Dojo
+SoftBank Capital,OneWeb
+Tiger Global Management,Rupifi
+Quona Capital,Rupifi
+Google for Startups,Rupifi
+Bessemer Venture Partners,Rupifi
+Tencent,Meituan
+IDG Capital,Meituan
+Baillie Gifford,Meituan
+Coatue,Meituan
+Temasek Holdings,Meituan
+EQT,IFS
+TA Associates,IFS
 Hg,IFS
+Wells Fargo,Notarize
+Fifth Wall,Notarize
 Realogy Holdings,Notarize
 Lennar Corporation,Notarize
-HV Capital,FINN
-Kinnevik,Foodpanda
+Tiger Global Management,NoBroker
+General Atlantic,NoBroker
+BEENEXT,NoBroker
+SAIF Partners,NoBroker
+Insight Partners,HelloFresh
+Baillie Gifford,HelloFresh
+Rocket Internet,HelloFresh
+HV Capital,HelloFresh
+Kinnevik,HelloFresh
 The Walt Disney Company,Hulu
-Providence Equity Partners,Conversica
+Providence Equity Partners,Hulu
 WarnerMedia,Hulu
+Sequoia Capital India,Qure AI
 MassMutual Ventures,Qure AI
-Team8,Cyberpion
-SeedInvest,Firefly Aerospace
+Team8,Noogata
+Eight Roads Ventures,Noogata
+Crowdcube,Miso Robotics
+SeedInvest,Miso Robotics
+Meyer Global Management,Miso Robotics
+Kleiner Perkins,Plex
 Klass Capital,Plex
 Intercap,Plex
-Barclays,Anthemis Group
-SoFi,BlockFi
-Marcy Venture Partners,Gemini
+TCV,Rapid7
+Bain Capital Ventures,Rapid7
+DCVC,On Deck
+Techstars,Remitly
+Goldman Sachs,Remitly
+Barclays,Remitly
+PayU,Remitly
+QED Investors,Remitly
+Andreessen Horowitz,Health IQ
+Greylock,Health IQ
+Menlo Ventures,Health IQ
+Ribbit Capital,Health IQ
+SoFi,Partake Foods
+Marcy Venture Partners,Partake Foods
 CircleUp,Partake Foods
 Backstage Capital,Partake Foods
 Shawn Carter,Partake Foods
-Eniac Ventures,Fuzzy
+8VC,Hive
+Bracket Capital,Hive
+Eniac Ventures,Hive
+Tencent,JD Logistics
+Hillhouse Capital Group,JD Logistics
+Sequoia Capital China,JD Logistics
+K3 Ventures,JD Logistics
+Y Combinator,Lattice
+Tiger Global Management,Lattice
+Shasta Ventures,Lattice
+Reach Capital,Nearpod
+Insight Partners,Nearpod
 Miami Angels,Nearpod
-Emerson Collective,Aclima
-Lyft,Argo AI
-Ubisoft,Animoca Brands
-Generation Investment Management,Gogoro
+Storm Ventures,Nearpod
+Emerson Collective,Nearpod
+Tiger Global Management,Osso VR
+GSR Ventures,Osso VR
+SignalFire,Osso VR
+Oak HC/FT,Osso VR
+Lyft,ID.me
+SoftBank,ID.me
+Morgan Stanley,ID.me
+Airbnb,ID.me
+BoxGroup,ID.me
+Ubisoft,Overwolf
+Andreessen Horowitz,Overwolf
+Warner Music Group,Overwolf
+Insight Partners,Overwolf
+Griffin Gaming Partners,Overwolf
+General Atlantic,o9 Solutions
+Kohlberg Kravis Roberts,o9 Solutions
+Generation Investment Management,o9 Solutions
 Bill & Melinda Gates Foundation,Novartis
+Sequoia Capital India,MobiKwik
 NET1 UEPS Technologies Inc.,MobiKwik
-American Express Ventures,Extend
-Trifecta Capital Advisors,GirnarSoft
+American Express Ventures,MobiKwik
+Trifecta Capital Advisors,MobiKwik
+Better Capital,Last9
+Sequoia Capital India,Last9
+Surge,Last9
+AngelList,OPEN
+Google,OPEN
+Tiger Global Management,OPEN
+Temasek Holdings,OPEN
+3one4 Capital,OPEN
+Sequoia Capital,Rec Room
+Coatue,Rec Room
+Index Ventures,Rec Room
+Acequia Capital (AceCap),Rec Room
+Venrock,Quiq
 Baird Capital,Quiq
+Foundry Group,Quiq
 NEXT Frontier Capital,Quiq
 Teamworthy Ventures,Quiq
+Andreessen Horowitz,Oculus
+Spark Capital,Oculus
+Matrix Partners,Oculus
 Formation 8,Oculus
-Picus Capital,FINN
-Golden Gate,Coda Payments
-Viola Ventures,Redis
+Tiger Global Management,Multiplier
+Sequoia Capital India,Multiplier
+Surge,Multiplier
+Picus Capital,Multiplier
+Golden Gate,Multiplier
+CICC,LanzaTech
+Qiming Venture Partners,LanzaTech
+Khosla Ventures,LanzaTech
+Western Technology Investment,LanzaTech
+Goldman Sachs,Lightricks
+Insight Partners,Lightricks
+Goldman Sachs Asset Management,Lightricks
+Viola Ventures,Lightricks
 Hanaco Venture Capital,Lightricks
-Alchemist Accelerator,MoEngage
+Insight Partners,LaunchDarkly
+Redpoint,LaunchDarkly
+Alchemist Accelerator,LaunchDarkly
+Vertex Ventures,LaunchDarkly
+Bessemer Venture Partners,LaunchDarkly
+Sequoia Capital,Nazara Technologies
 ESL Gaming,Nazara Technologies
-Salesforce Ventures,Akeneo
+Summit Partners,Infor
+Salesforce Ventures,Infor
 Golden Gate Capital,Infor
-Paradigm,FTX US
+Andreessen Horowitz,Pindrop
+Goldman Sachs,Pindrop
+GV,Pindrop
+Redpoint,Pindrop
+Vitruvian Partners,Pindrop
+Andreessen Horowitz,Optimism
+Paradigm,Optimism
 IDEO CoLab Ventures,Optimism
-Startup Wise Guys,Bolt
+Startup Wise Guys,Montonio
+Index Ventures,Montonio
+ff Venture Capital,Montonio
 Superangel,Montonio
 Tera Ventures,Montonio
-Creandum,Ark Kapital
+Insight Partners,Leapsome
+Creandum,Leapsome
 Visionaries Club,Leapsome
-Citi Ventures,ChargeAfter
+SoftBank Vision Fund,Pantheon
+Founder Collective,Pantheon
+Scale Venture Partners,Pantheon
+Foundry Group,Pantheon
+Floodgate,Pantheon
+Andreessen Horowitz,Jumio
+Citi Ventures,Jumio
 Centana Growth Partners,Jumio
 Great Hill Partners,Jumio
+Gaingels,Octane
+FundersClub,Octane
+FinTech Collective,Octane
+Third Prime,Octane
+Insight Partners,SafetyCulture
+Tiger Global Management,SafetyCulture
+Index Ventures,SafetyCulture
 Morpheus Ventures,SafetyCulture
-Rethink Education,Crehana
+Amber Group,Mina
+Coinbase Ventures,Mina
+Paradigm,Mina
+Kraken,Prime Trust
+Commerce Ventures,Prime Trust
+Samsung NEXT,Prime Trust
+Redpoint,Guild Education
+Bessemer Venture Partners,Guild Education
+Rethink Education,Guild Education
+Emerson Collective,Guild Education
+Elephant,KnowBe4
+Kohlberg Kravis Roberts,KnowBe4
 TenEleven Ventures,KnowBe4
 March Capital,KnowBe4
-National Institutes of Health,Mayo Clinic
-ICONIQ Growth,Drata
+Sequoia Capital,Houzz
+T. Rowe Price,Houzz
+New Enterprise Associates,Houzz
+GGV Capital,Houzz
+Kleiner Perkins,Houzz
+Sequoia Capital,Natera
+National Institutes of Health,Natera
+RA Capital Management,Natera
+Lightspeed Venture Partners,Natera
+Accel,Netskope
+Lightspeed Venture Partners,Netskope
+ICONIQ Growth,Netskope
+Dell Technologies Capital,Netskope
+Revolution,Lucid
+HarbourVest Partners,Lucid
 Sopris Capital Associates,Lucid
-North Bridge Venture Partners & Growth Equity,Couchbase
-Raptor Group,Gotrade
-Activant Capital,Bolttech
-Canaan Partners,Apartment List
+North Bridge Venture Partners & Growth Equity,Lucid
+Raptor Group,Hydrow
+L Catterton,Hydrow
+Winklevoss Capital,Hydrow
+Activant Capital,Hydrow
+Animoca Brands,OpenSea
+Republic,OpenSea
+Blockchain Capital,OpenSea
+Andreessen Horowitz,OpenSea
+Y Combinator,OpenSea
+Temasek Holdings,Rent the Runway
+Fidelity Management and Research Company,Rent the Runway
+Franklin Templeton Investments,Rent the Runway
+Highland Capital Partners,Rent the Runway
+Kleiner Perkins,Rent the Runway
+OurCrowd,Near
+Sequoia Capital India,Near
+Global Brain Corporation,Near
+Telstra Ventures,Near
+Canaan Partners,Near
+F-Prime Capital,OTA Insight
+Venrex,OTA Insight
+Eight Roads Ventures,OTA Insight
 Spectrum Equity,OTA Insight
 Massachusetts Institute of Technology,Sales Impact Academy
 Emerge Education,Sales Impact Academy
 Stage 2 Capital,Sales Impact Academy
 Round2 Capital Partners,Sales Impact Academy
+CICC,Nreal
 iQiyi,Nreal
+Alibaba Group,Nreal
+Shunwei Capital,Nreal
+Sequoia Capital China,Nreal
+Insight Partners,OpenWeb
+AltaIR Capital,OpenWeb
+Samsung NEXT,OpenWeb
 The New York Times,OpenWeb
-InnoVen Capital,Ather Energy
-Mithril Capital Management,Glance
+Flipkart,GreyOrange
+Tiger Global Management,GreyOrange
+Blume Ventures,GreyOrange
+InnoVen Capital,GreyOrange
+Mithril Capital Management,GreyOrange
+Warburg Pincus,Ola
+Tencent,Ola
+SoftBank,Ola
+Tiger Global Management,Ola
+Picus Capital,Habyt
+Hambro Perks Ltd.,Habyt
 Inveready,Habyt
-One Peak Partners,Deepki
+HV Capital,Habyt
+Plug and Play Tech Center,Paysend
+One Peak Partners,Paysend
 InfraVia Capital Partners,Paysend
-Nyca Partners,Canopy
+Y Combinator,Nova Credit
+Index Ventures,Nova Credit
+Nyca Partners,Nova Credit
+Human Capital,Nova Credit
 Level Equity Management,Instaclustr
 Our Innovation Fund,Instaclustr
 Sydney Angels,Instaclustr
-Soma Capital,Fasset
-Navi Technologies,Bounce
+Y Combinator,Gotrade
+Raptor Group,Gotrade
+Plug and Play Tech Center,Gotrade
+BEENEXT,Gotrade
+Soma Capital,Gotrade
+Sequoia Capital,Maven Clinic
+Lux Capital,Maven Clinic
+8VC,Maven Clinic
+BoxGroup,Maven Clinic
+Goodwater Capital,Jerry
+FundersClub,Jerry
+Y Combinator,Jerry
+Liquid 2 Ventures,Jerry
+Plug and Play Tech Center,Jerry
+Navi Technologies,Infra.Market
+Vivriti Capital,Infra.Market
+Tiger Global Management,Infra.Market
 CredAvenue,Infra.Market
+Accel,Infra.Market
+Goldman Sachs,Purplle
+Sequoia Capital India,Purplle
+Mumbai Angels,Purplle
+Blume Ventures,Purplle
+Northern Arc,ReshaMandi
+Venture Catalysts,ReshaMandi
+9Unicorns Accelerator Fund,ReshaMandi
+Axilor Ventures,ReshaMandi
+Alteria Capital,ReshaMandi
 U.S. Department of Health & Human Services,Regeneron
+Andreessen Horowitz,Rutter
+Y Combinator,Rutter
+Liquid 2 Ventures,Rutter
+Haystack,Rutter
+Bessemer Venture Partners,Optimal Dynamics
 Fusion Fund,Optimal Dynamics
 The Westly Group,Optimal Dynamics
 Newark Venture Partners,Optimal Dynamics
 Embark Ventures,Optimal Dynamics
-Adams Street Partners,Five9
-645 Ventures,Panther Labs
+Tiger Global Management,Redis
+SoftBank Vision Fund,Redis
+Viola Ventures,Redis
+Silver Lake,Iterable
+500 Startups,Iterable
+Index Ventures,Iterable
+Adams Street Partners,Iterable
+645 Ventures,Iterable
+Zoom,monday.com
+Insight Partners,monday.com
+Stripes,monday.com
+HarbourVest Partners,monday.com
+Amber Group,RockX
 Matrixport,RockX
+FBG Capital,RockX
 IMO Ventures,RockX
-South Park Commons,Forethought
+Andreessen Horowitz,Mux
+Y Combinator,Mux
+Accel,Mux
+Liquid 2 Ventures,Mux
+Coatue,Mux
+Tiger Global Management,Money View
+Accel,Money View
+Ribbit Capital,Money View
+South Park Commons,Money View
+Y Combinator,Heap
+Redpoint,Heap
+Initialized Capital,Heap
+WME,Heap
+Goldman Sachs Asset Management,Heap
+Techstars,Preply
 The Family,Preply
 Hoxton Ventures,Preply
 All Iron Ventures,Preply
 Project A Ventures,re:cap
+Felix Capital,re:cap
+Insight Partners,Hootsuite
+Accel,Hootsuite
+Craft Ventures,Hootsuite
+OMERS Ventures,Hootsuite
+QED Investors,Hello Alice
 Sherpa,Hello Alice
-Naver,Emtek Group
+Serena Ventures,Hello Alice
+SVB Capital,Hello Alice
+Goldman Sachs,Mirae Asset Global Investments
+Naver,Mirae Asset Global Investments
+Deutsche Bank,Mirae Asset Global Investments
+Andreessen Horowitz,People.ai
+Gaingels,People.ai
+Y Combinator,People.ai
+Index Ventures,People.ai
+Shasta Ventures,People.ai
+Y Combinator,Raptor Maps
+DCVC,Raptor Maps
 DNV GL,Raptor Maps
 Struck Capital,Raptor Maps
-Microsoft Climate Innovation Fund,Aclima
-NEO Global Capital (NGC),Ankr
-01 Advisors,Electric
+Microsoft Climate Innovation Fund,Raptor Maps
+IDG Capital,KuCoin
+Matrix Partners,KuCoin
+NEO Global Capital (NGC),KuCoin
+01 Advisors,Origin
+Felicis Ventures,Origin
 Manulife Financial,League
-Real Ventures,Ignition
+OMERS Ventures,League
+RBC Capital,League
+Foundation Capital,League
+Real Ventures,League
+Temasek Holdings,Info Edge
 Lightbox,Info Edge
-Blackstone Group,BC Partners
-SAP,Alchemist Accelerator
-Times Internet,Pocket FM
+Techstars,JumpCloud
+OurCrowd,JumpCloud
+General Atlantic,JumpCloud
+Foundry Group,JumpCloud
+Coatue,Panther Labs
+Lightspeed Venture Partners,Panther Labs
+ICONIQ Growth,Panther Labs
+Innovation Endeavors,Panther Labs
+645 Ventures,Panther Labs
+Blackstone Group,NCR
+European Investment Bank,Orange
+SAP,Icertis
+B Capital Group,Icertis
+SoftBank Vision Fund,Icertis
+Eight Roads Ventures,Icertis
+Accel,LetsVenture
+Times Internet,LetsVenture
+Chiratae Ventures,LetsVenture
+Alchemist Accelerator,MoEngage
+F-Prime Capital,MoEngage
+Steadview Capital,MoEngage
+Matrix Partners India,MoEngage
+Eight Roads Ventures,MoEngage
 Gojo & Company,MyShubhLife
-Flourish Ventures,Apollo Agriculture
+Flourish Ventures,MyShubhLife
+BEENEXT,MyShubhLife
 Patamar Capital,MyShubhLife
-lool Ventures,Beewise
+lool Ventures,Home365
 UpWest,Home365
 J-Ventures,Home365
 Viola Growth,Home365
+Warburg Pincus,Helix
 Mayo Clinic,Helix
-Bienville Capital,54gene
-Electric Capital,CoinList
+Temasek Holdings,Helix
+National Institutes of Health,Helix
+Casdin Capital,Helix
+Tiger Global Management,Procore
+Bienville Capital,Procore
+Tech Coast Angels,Procore
+Bessemer Venture Partners,Procore
+Seedcamp,Pleo
+Creandum,Pleo
+Coatue,Pleo
+Stripes,Pleo
+Bain Capital Ventures,Pleo
+Sequoia Capital,Magic Eden
+Greylock,Magic Eden
+Paradigm,Magic Eden
+Electric Capital,Magic Eden
+Digital Currency Group,OXIO
+ParaFi Capital,OXIO
+Monashees,OXIO
 Multicoin Capital,OXIO
+FinTech Collective,OXIO
 Indian Angel Network,Phool
-Dragoneer Investment Group,Duck Creek Technologies
-Google Launchpad Accelerator,Coda Payments
+Tencent,Pocket FM
+Naver,Pocket FM
+Goodwater Capital,Pocket FM
+Lightspeed Venture Partners,Pocket FM
+Times Internet,Pocket FM
+Valor Equity Partners,HackerOne
+New Enterprise Associates,HackerOne
+EQT Ventures,HackerOne
+Dragoneer Investment Group,HackerOne
+New Enterprise Associates,Juniper Networks
+Kleiner Perkins,Juniper Networks
+Google Launchpad Accelerator,QueQ
 Bon Angels Venture Partners,QueQ
-Moore Strategic Ventures,InCred
+Energy Impact Partners,GridX
+Moore Strategic Ventures,GridX
 Sunfox Capital,GridX
-Pitango Venture Capital,D-ID
+Insight Partners,Optibus
+Alibaba Group,Optibus
+Bessemer Venture Partners,Optibus
+Pitango Venture Capital,Optibus
 New Era Capital Partners,Optibus
+Craft Ventures,Northspyre
+CRV,Northspyre
 Tamarisc Ventures,Northspyre
-Crosslink Capital,DataStax
+Sequoia Capital,Insider
+500 Startups,Insider
+Sequoia Capital India,Insider
+Wamda Capital,Insider
+Tencent,GoStudent
+SoftBank Vision Fund,GoStudent
+Coatue,GoStudent
+Speedinvest,GoStudent
+Warburg Pincus,Phil
+Crosslink Capital,Phil
+Eniac Ventures,Phil
+Tencent,GrowSari
+Wavemaker Partners,GrowSari
+International Finance Corporation,GrowSari
+Kohlberg Kravis Roberts,GrowSari
 Saison Capital,GrowSari
+BEENEXT,mfine
+Stellaris Venture Partners,mfine
+Alteria Capital,mfine
 Prime Venture Partners,mfine
-SBI Investment,Gojo & Company
-Jungle Ventures,FinAccel
+SBI Investment,mfine
+Goldman Sachs,Livspace
+Jungle Ventures,Livspace
+Bessemer Venture Partners,Livspace
 IKEA,Livspace
+New Enterprise Associates,NODAR
+Plug and Play Tech Center,NODAR
 Rhapsody Venture Partners,NODAR
+Andreessen Horowitz,PagerDuty
+Y Combinator,PagerDuty
+T. Rowe Price,PagerDuty
+Accel,PagerDuty
+Bessemer Venture Partners,PagerDuty
 ByteDance,Li Auto
-BlueRun Ventures,Coupa Software
+BlueRun Ventures,Li Auto
 Yintai Group,Li Auto
 Matrix Partners China,Li Auto
 Source Code Capital,Li Auto
+Animoca Brands,GuildFi
+Dapper Labs,GuildFi
+Hashed,GuildFi
 DeFiance Capital,GuildFi
-Alpha Edison,Bambee
+Coinbase Ventures,GuildFi
+Mirae Asset Global Investments,Naver
+500 Startups,Kin Insurance
+QED Investors,Kin Insurance
+Flourish Ventures,Kin Insurance
+Commerce Ventures,Kin Insurance
+Alpha Edison,Kin Insurance
+Andreessen Horowitz,Komodo Health
+Tiger Global Management,Komodo Health
+Oak HC/FT,Komodo Health
+Casdin Capital,Komodo Health
+SVB Capital,Komodo Health
+FundersClub,Grin
+LAUNCH,Grin
+Sequoia Capital,iQiyi
+IDG Capital,iQiyi
+Hillhouse Capital Group,iQiyi
+Shunwei Capital,iQiyi
 Boyu Capital,iQiyi
-Renren,Fundrise
+Nexus Venture Partners,OneCode
+Surge,OneCode
+Renren,Poplar Homes
 XG Ventures,Poplar Homes
 Crescent Cove Advisors,Poplar Homes
+Sequoia Capital,Productboard
+Tiger Global Management,Productboard
+Craft Ventures,Productboard
+Index Ventures,Productboard
+Bessemer Venture Partners,Productboard
 Ampere Computing,Rigetti Computing
+Andreessen Horowitz,Rigetti Computing
+Lux Capital,Rigetti Computing
+Y Combinator,Rigetti Computing
+Summit Partners,Optimove
 Israel Growth Partners,Optimove
 Mizuho Bank,Line
+Tencent,Pinduoduo
+IDG Capital,Pinduoduo
+Hillhouse Capital Group,Pinduoduo
+Sequoia Capital China,Pinduoduo
+Cathay Innovation,Pinduoduo
+Spark Capital,Justworks
+Union Square Ventures,Justworks
+Redpoint,Justworks
+Bain Capital,Justworks
+FirstMark,Justworks
+Tech Coast Angels,Mindbody
+Wavemaker Partners,Mindbody
+Bessemer Venture Partners,Mindbody
+Institutional Venture Partners,Mindbody
+Sixth Street,Mindbody
+Spark Capital,Hivemapper
+GV,Hivemapper
+Craft Ventures,Hivemapper
+Founder Collective,Hivemapper
+International Finance Corporation,Navi Technologies
 Gaja Capital,Navi Technologies
+GV,Podium
+Y Combinator,Podium
+Accel,Podium
+Summit Partners,Podium
+Institutional Venture Partners,Podium
+Insight Partners,Indiegogo
+Draper Associates,Indiegogo
+Khosla Ventures,Indiegogo
+ff Venture Capital,Indiegogo
+Kleiner Perkins,Indiegogo
+Seedcamp,Revolut
+Tiger Global Management,Revolut
+SoftBank Vision Fund,Revolut
 Seedrs,Revolut
+Global Founders Capital,Revolut
+ParaFi Capital,Rarible
+Coinbase Ventures,Rarible
+Venrock,Rarible
 1kx,Rarible
-CoinFund,DFINITY
-First Round Capital,EvolutionIQ
+CoinFund,Rarible
+WestBridge Capital,IndiQube
+M13,Ring
+Qualcomm Ventures,Ring
+Kleiner Perkins,Ring
+First Round Capital,Ring
+Upfront Ventures,Ring
+Sequoia Capital India,Mamaearth
+Sofina,Mamaearth
+Stellaris Venture Partners,Mamaearth
 Fireside Ventures,Mamaearth
 Gavi,Merck
+Andreessen Horowitz,Hex Technologies
 Snowflake,Hex Technologies
+BoxGroup,Hex Technologies
+Redpoint,Hex Technologies
+XYZ Venture Capital,Hex Technologies
+JP Morgan Chase,MercadoLibre
+Goldman Sachs,MercadoLibre
 PayPal,MercadoLibre
-Corner Ventures,Beewise
-ICONIUM,Enjin
+Tiger Global Management,MercadoLibre
+Dragoneer Investment Group,MercadoLibre
+Tencent,Practo
+Sequoia Capital,Practo
+Matrix Partners,Practo
+Sequoia Capital India,Practo
+Matrix Partners India,Practo
+500 Startups,RiseUp
+Corner Ventures,RiseUp
+Techstars,Novo
+BoxGroup,Novo
+RRE Ventures,Novo
+Stripes,Novo
+Hack VC,Novo
+ICONIUM,Huobi
 ZhenFund,Huobi
 Node Capital,Huobi
-Perceptive Advisors,Neuron23
+Andreessen Horowitz,Payrails
+HV Capital,Payrails
+Perceptive Advisors,ReViral
+OrbiMed,ReViral
 Andera Partners,ReViral
 New Leaf Venture Partners,ReViral
+Tencent,QuintoAndar
+SoftBank,QuintoAndar
+Qualcomm Ventures,QuintoAndar
+QED Investors,QuintoAndar
+General Atlantic,QuintoAndar
+Eurazeo,Onfido
+Augmentum Fintech,Onfido
+Fin Venture Capital,Onfido
+Acequia Capital (AceCap),Onfido
+Plug and Play Tech Center,Onfido
+Venrock,Interos
+Kleiner Perkins,Interos
+Accenture Ventures,Interos
 Broadway Angels,Interos
+Greylock,Pandora
+Slow Ventures,Pandora
+Crosslink Capital,Pandora
+GGV Capital,Pandora
+Kohlberg Kravis Roberts,Pandora
+BlackRock,Rivian
+T. Rowe Price,Rivian
 Amazon,Rivian
-Sony Innovation Fund,Exo
+Coatue,Rivian
+Fidelity Management and Research Company,Rivian
+Redpoint,Orca Security
+Temasek Holdings,Orca Security
+Stripes,Orca Security
+GGV Capital,Orca Security
+ICONIQ Growth,Orca Security
+Sony Innovation Fund,Medfin India
+Axilor Ventures,Medfin India
+Blume Ventures,Medfin India
 Kotak Investment Advisors,Medfin India
-BNY Mellon,ConsenSys
+JP Morgan,Proxymity
+HSBC,Proxymity
+Deutsche Bank,Proxymity
+BNY Mellon,Proxymity
 State Street,Proxymity
+Gaingels,Homebound
+Goldman Sachs,Homebound
+GV,Homebound
+Fifth Wall,Homebound
+Craft Ventures,Homebound
 Inventure,Material Exchange
-Molten Ventures,Earlybird Venture Capital
+Molten Ventures,Material Exchange
+Partech,Material Exchange
 Norrsken VC,Material Exchange
 Day One Capital,Material Exchange
 GlaxoSmithKline,LifeMine Therapeutics
 Merck,LifeMine Therapeutics
+GV,LifeMine Therapeutics
+Fidelity Management and Research Company,LifeMine Therapeutics
+Insight Partners,LawVu
+Shasta Ventures,LawVu
+AirTree Ventures,LawVu
+Silver Lake,Groupon
+Andreessen Horowitz,Groupon
+Greylock,Groupon
+Accel,Groupon
+Tencent,Lilium
+BlackRock,Lilium
+Baillie Gifford,Lilium
+Lightrock,Lilium
+Atomico,Lilium
+GSR Ventures,Novelship
+Global Founders Capital,Novelship
+East Ventures,Novelship
+K3 Ventures,Novelship
 iGlobe Partners,Novelship
 Humana,Omada Health
+Andreessen Horowitz,Omada Health
+Norwest Venture Partners,Omada Health
+Kaiser Permanente,Omada Health
+Founder Collective,Omada Health
+CRV,ProtonMail
 European Commission,ProtonMail
 MIT Venture Mentoring Service (MIT VMS),ProtonMail
+Sequoia Capital,PayPal
+Goldman Sachs,PayPal
+Deutsche Bank,PayPal
+Qualcomm Ventures,PayPal
+Temasek Holdings,PayPal
+Sequoia Capital,Remote
+Gaingels,Remote
 HackerOne,Remote
-FMO,Aavishkaar Venture Capital
+Liquid 2 Ventures,Remote
+Andreessen Horowitz,Mercury
+500 Startups,Mercury
+Coatue,Mercury
+FMO,InCred
+Moore Strategic Ventures,InCred
+Techstars,Nautilus Labs
 SYSTEMIQ,Nautilus Labs
 Quiet Capital,Nautilus Labs
 TMV,Nautilus Labs
+Bessemer Venture Partners,MediBuddy
+Lightrock,MediBuddy
+Alteria Capital,MediBuddy
+InnoVen Capital,MediBuddy
+Rebright Partners,MediBuddy
 AloStar,Hercules Capital
+SoftBank Vision Fund,Neuron23
+Perceptive Advisors,Neuron23
+Kleiner Perkins,Neuron23
 Redmile Group,Neuron23
-Fenbushi Capital,BitMart
+Fenbushi Capital,LongHash Ventures
 Hashkey,LongHash Ventures
-Partners Group,Climeworks
+Partners Group,Layr
 Holmes Murphy & Associates,Layr
 Sandbox Industries,Layr
 Hudson Structured Capital Management,Layr
-Northleaf Capital Partners,NewSpring
+JP Morgan Chase,PPRO
+Eurazeo,PPRO
+Northleaf Capital Partners,PPRO
+Wellington Management,PPRO
+Eldridge,PPRO
+Liquid 2 Ventures,IUNU
+Village Capital,IUNU
+Initialized Capital,IUNU
+S2G Ventures,IUNU
 Astanor Ventures,IUNU
+Andreessen Horowitz,Reforge
+Insight Partners,Reforge
+NextView Ventures,Reforge
+TCV,Reforge
+Bossa Nova Investimentos,Reforge
 AMC Theatres,Hycroft Mining
 Founders Factory,Perlego
-Raine Ventures,Chalo
+Raine Ventures,Perlego
+Flourish Ventures,Lendable
 Fenway Summer Ventures,Lendable
+FMO,Lendable
 US Angel Investors,Lendable
 Omidyar Network,Lendable
+Digital Currency Group,Ripple
+Blockchain Capital,Ripple
+Andreessen Horowitz,Ripple
+Accenture,Ripple
+IDG Capital,Ripple
+National Institutes of Health,Mayo Clinic
 U.S. Department of Defense,Mayo Clinic
+SoftBank Vision Fund,OurCrowd
 United Overseas Bank,OurCrowd
 UOB Venture,OurCrowd
-DHVC,Ankr
+Andreessen Horowitz,Polychain
+Union Square Ventures,Polychain
+Pantera Capital,Polychain
+DCM Ventures,Polychain
+DHVC,Polychain
+Y Combinator,Mesh
+Liquid 2 Ventures,Mesh
+Surge,Mesh
 Y Combinator Continuity Fund,Mesh
+Zoom,Observe.AI
+Y Combinator,Observe.AI
+SoftBank Vision Fund,Observe.AI
+Liquid 2 Ventures,Observe.AI
+Menlo Ventures,Observe.AI
+SoftBank,Grab
+Invesco,Grab
+Microsoft,Grab
+HSBC,Grab
+500 Startups,Grab
+Dyal Capital Partners,H.I.G. Capital
+Temasek Holdings,LeapFrog Investments
 Knox Lane,Pattern
+Chiratae Ventures,Kristal.AI
 Amit Gupta,Kristal.AI
+Mastercard,Razorpay
+Y Combinator,Razorpay
+Tiger Global Management,Razorpay
+Sequoia Capital India,Razorpay
+GIC,Razorpay
+Bain Capital,IIFL Wealth Management
+General Atlantic,IIFL Wealth Management
+International Finance Corporation,RBL Bank
+Steadview Capital,RBL Bank
 ICICI Lombard General Insurance,RBL Bank
-Ascent Capital,EnKash
+CDC Group,RBL Bank
+Ascent Capital,RBL Bank
 Massachusetts Life Sciences Center,Massachusetts Institute of Technology
 Massachusetts Clean Energy Center,Massachusetts Institute of Technology
 U.S. Food and Drug Administration,Massachusetts Institute of Technology
 Ludwig Cancer Research,Massachusetts Institute of Technology
+Digital Currency Group,Kraken
+Blockchain Capital,Kraken
+Tribe Capital,Kraken
+Hummingbird Ventures,Kraken
 BnkToTheFuture,Kraken
+RRE Ventures,Palantir Technologies
+Bracket Capital,Palantir Technologies
+Ulu Ventures,Palantir Technologies
+In-Q-Tel,Palantir Technologies
+Northleaf Capital Partners,NewSpring
 17Capital LLP,NewSpring
 Liberty Media,News Corp
-Fortress Investment Group,BigBear.ai
+Fortress Investment Group,Mogo
 Great West Lifeco,Northleaf Capital Partners
 Mackenzie Investments,Northleaf Capital Partners
+PLDT,Rocket Internet
+Global Founders Capital,Rocket Internet
 United Internet Ventures,Rocket Internet
-Dragonfly Capital Partners,Ava Labs
-9Yards Capital,8VC
+HV Capital,Rocket Internet
+Access Industries,Rocket Internet
+IDG Capital,Matrixport
+Tiger Global Management,Matrixport
+Polychain,Matrixport
+Paradigm,Matrixport
+Dragonfly Capital Partners,Matrixport
+Dragonfly Capital Partners,ParaFi Capital
+Augmentum Fintech,ParaFi Capital
+9Yards Capital,ParaFi Capital
+Bain Capital Ventures,ParaFi Capital
+Tiger Global Management,Moglix
+Accel,Moglix
+Jungle Ventures,Moglix
+Bessemer Venture Partners,Moglix
+Sequoia Capital India,Moglix
+Wavemaker Partners,PLDT
 U.S. Trade and Development Agency,PLDT
 Pattern,Route
+Craft Ventures,Route
+FJ Labs,Route
+Goldcrest Capital,Route
+Bessemer Venture Partners,Rev.com
 Brand Capital International,OneValley
-SuRo Capital,NewLake Capital Partners
-Endeavor,Dolado
-Canary,Datanomik
+SuRo Capital,OneValley
+Digital Currency Group,Ripio
+FundersClub,Ripio
+Draper Associates,Ripio
+Pantera Capital,Ripio
+Endeavor,Latitud
+Andreessen Horowitz,Latitud
+Canary,Latitud
+FJ Labs,Latitud
+NFX,Latitud
+Morgan Stanley,Sabre Corporation
+Goldman Sachs,Sabre Corporation
 Perella Weinberg Partners,Sabre Corporation
+Google,JD.com
+Hillhouse Capital Group,JD.com
+Tiger Global Management,JD.com
+Walmart,JD.com
+Sequoia Capital China,JD.com
+Partech,October
+European Investment Bank,October
+Idinvest Partners,October
+Credit Suisse,Lighter Capital
+i80 | Group,Lighter Capital
+National Australia Bank (NAB),Lighter Capital
 Voyager Capital,Lighter Capital
 Activation Capital,Lighthouse Labs RVA
 GO Virginia,Lighthouse Labs RVA
-Meta,Gojek
-Axis Bank,Flipkart
+Correlation Ventures,Mercato
+Meta,Reliance Jio
+Citi,Reliance Jio
+Axis Bank,Reliance Jio
 ICICI Bank,Reliance Jio
-CIBC,Conversica
+Silver Lake,Reliance Jio
+Tiger Global Management,Ignition
+Real Ventures,Ignition
+CIBC,Ignition
+Spark Capital,Grammarly
+BlackRock,Grammarly
+Baillie Gifford,Grammarly
+SignalFire,Grammarly
+TA Associates,K2
+Thoma Bravo,K2
 FTV Capital,K2
+Azure Capital Partners,K2
+SAP,LinkedIn
+Sequoia Capital,LinkedIn
+Goldman Sachs,LinkedIn
+Greylock,LinkedIn
+Tiger Global Management,LinkedIn
+Digital Currency Group,Protocol Labs
+Sequoia Capital,Protocol Labs
+Andreessen Horowitz,Protocol Labs
+FundersClub,Protocol Labs
+Union Square Ventures,Protocol Labs
+M13,Northstar
+RRE Ventures,Northstar
+Foundation Capital,Northstar
 Calvert Impact Capital,responsAbility
 Alecta,responsAbility
+Fidelity Management and Research Company,Perella Weinberg Partners
+Wellington Management,Perella Weinberg Partners
 East West Bank,Lennar Corporation
-Renaissance Venture Capital,Atlas Venture
-Earlybird Venture Capital,Carto
+Renaissance Venture Capital,Next Coast Ventures
+FundersClub,Paragon
+Y Combinator,Paragon
+Global Founders Capital,Paragon
+Soma Capital,Paragon
+Earlybird Venture Capital,Payhawk
+QED Investors,Payhawk
+Lightspeed Venture Partners,Payhawk
+Greenoaks Capital,Payhawk
 Queno,Oman Technology Fund
-BC Partners,Altice USA
+BC Partners,IMA Group
+Bossa Nova Investimentos,Hack VC
 National Black Bank Foundation,Major League Soccer
-Incubate Fund,Arena.im
+General Atlantic,NET1 UEPS Technologies Inc.
+500 Startups,Innovaccer
+B Capital Group,Innovaccer
+Tiger Global Management,Innovaccer
+Sequoia Capital India,Innovaccer
+Lightspeed Venture Partners,Innovaccer
+Sequoia Capital,Oracle
+US Department of Energy,Honeywell
+500 Startups,Revolution
+Incubate Fund,PlaceHolder
+Global Brain Corporation,PlaceHolder
+Tencent,Hike
+SoftBank,Hike
+Tiger Global Management,Hike
+Foxconn Technology Group,Hike
+SoftBank Capital,NetEase
 Hammerstone,NextGen Venture Partners
-October,Engie
+HV Capital,IONIQ
+SuRo Capital,NewLake Capital Partners
+October,JCDecaux
+GoBeyond,Kae Capital
+Summit Partners,McAfee
+Caisse de Depot et Placement du Quebec,Real Ventures
+Sequoia Capital,Green Dot
+Tech Coast Angels,Green Dot
+TCV,Green Dot
+GIC,Refinitiv
+Blackstone Group,Refinitiv
+Canada Pension Plan Investment Board,Refinitiv
+dmg ventures,Hambro Perks Ltd.
+Mayfield Fund,Prime Venture Partners
+Redpoint,Heavybit
+Accel,Heavybit
+DCVC,Heavybit
+IA Ventures,Heavybit
+SV Angel,Heavybit
 New York Life Insurance,Max Ventures and Industries
+SOSV,rocketship.vc
+Blackstone Group,Great Hill Partners
+Accel,Renren
 Legend Capital,Renren
-NGP Capital,BoostUp.ai
+General Atlantic,Renren
+TCV,Renren
+SoftBank Capital,Renren
+Dyal Capital Partners,ICONIQ Capital
+NGP Capital,Network18
+Lightspeed Venture Partners,Lianluo
+Sequoia Capital China,Lianluo
 F&G Venture,Lianluo
-Hercules Capital,Druva
-Sands Capital Ventures,Anaplan
+Stripe,Fast
+Global Founders Capital,Fast
+Index Ventures,Fast
+Addition,Fast
+G Squared,Fast
+Berkshire Hathaway,Apple
+Sequoia Capital,Apple
+Microsoft,Apple
+Matrix Partners,Apple
+Venrock,Apple
+JP Morgan,Convoy
+Greylock,Convoy
+Y Combinator,Convoy
+Hercules Capital,Convoy
+Republic,CoinDCX
+Polychain,CoinDCX
+B Capital Group,CoinDCX
+Coinbase Ventures,CoinDCX
+Silver Lake,Genies
+Dapper Labs,Genies
+Gaingels,Genies
+Lerer Hippeau,Genies
+Polychain,Genies
+Digital Currency Group,Coinbase
+Blockchain Capital,Coinbase
+Andreessen Horowitz,Coinbase
+Polychain,Coinbase
+Ubisoft,Animoca Brands
+Mirae Asset Global Investments,Animoca Brands
+500 Startups,Animoca Brands
+IDG Capital,Animoca Brands
+Zomato,blinkit
+SoftBank,blinkit
+Sequoia Capital,blinkit
+Tiger Global Management,blinkit
+SoftBank Vision Fund,blinkit
+Andreessen Horowitz,AngelList
+500 Startups,AngelList
+GV,AngelList
+Tiger Global Management,AngelList
+Slow Ventures,AngelList
+Mastercard,Digital Currency Group
+RRE Ventures,Digital Currency Group
+SoftBank Vision Fund,Digital Currency Group
+OMERS Ventures,Digital Currency Group
+Lenovo,CertiK
+Sequoia Capital,CertiK
+Goldman Sachs,CertiK
+IDG Capital,CertiK
+Hillhouse Capital Group,CertiK
+Warburg Pincus,CrowdStrike
+Accel,CrowdStrike
+General Atlantic,CrowdStrike
+Institutional Venture Partners,CrowdStrike
+CapitalG,CrowdStrike
+Sands Capital Ventures,Globalization Partners
 TDR Capital,Globalization Partners
-Base10 Partners,Cottage
+SoftBank,Bambee
+Gaingels,Bambee
+QED Investors,Bambee
+Alpha Edison,Bambee
+GV,Checkr
+Y Combinator,Checkr
+Accel,Checkr
+T. Rowe Price,Checkr
+Coatue,Checkr
+Y Combinator,Brex
+Tiger Global Management,Brex
+Base10 Partners,Brex
+Baillie Gifford,Brex
+Credit Suisse,Brex
 Mogo,Gemini
+ParaFi Capital,Gemini
+Marcy Venture Partners,Gemini
+Pantera Capital,Gemini
+Winklevoss Capital,Gemini
+Insight Partners,Choco
+Coatue,Choco
+Bessemer Venture Partners,Choco
 Atlantic Labs,Choco
+G Squared,Choco
+T. Rowe Price,Atlassian
+Accel,Atlassian
+Dragoneer Investment Group,Atlassian
 ESO Fund,Atlassian
+SoftBank,Eight Sleep
+Gaingels,Eight Sleep
+8VC,Eight Sleep
+Y Combinator,Eight Sleep
 Community Investment Management,Camino Financial
 DILA Capital,Camino Financial
 Impact America Fund,Camino Financial
-Collaborative Fund,Fundrise
-Primary Venture Partners,Electric
+Collaborative Fund,Camino Financial
+Comcast Ventures,Camino Financial
+Tiger Global Management,Amber Group
+Polychain,Amber Group
+Paradigm,Amber Group
+Temasek Holdings,Amber Group
+Coinbase Ventures,Amber Group
+BoxGroup,Chief
+Accel,Chief
+Primary Venture Partners,Chief
+Flybridge,Chief
+Animoca Brands,Axie Infinity
+ConsenSys,Axie Infinity
+500 Startups,Axie Infinity
+Hashed,Axie Infinity
+Tencent,Flipkart
+Axis Bank,Flipkart
+Flipkart,Flipkart
+Microsoft,Flipkart
+Morgan Stanley,Flipkart
+Insight Partners,Builder.ai
+Jungle Ventures,Builder.ai
 IFC,Builder.ai
 Revo Capital,Builder.ai
-Arca,Arca
-Senator Investment Group,Adaptive Biotechnologies
+WndrCo,Builder.ai
+Warburg Pincus,Airtel
+Google,Airtel
+BlackRock,Airtel
+Goldman Sachs Asset Management,Airtel
+Arca,Galaxy Digital
+Senator Investment Group,Galaxy Digital
 Nz Funds,Galaxy Digital
+Sequoia Capital,Docker
+Goldman Sachs,Docker
+Greylock,Docker
+Insight Partners,Docker
+Y Combinator,Docker
+Spark Capital,Andela
+GV,Andela
+SoftBank Vision Fund,Andela
+Founder Collective,Andela
+International Finance Corporation,Andela
+Tiger Global Management,Classplus
+Sequoia Capital India,Classplus
+Lightspeed Venture Partners,Classplus
+Alpha Wave Global,Classplus
+Surge,Classplus
 Liquidity,eToro
+Digital Currency Group,eToro
+Spark Capital,eToro
 Ping An,eToro
+Anthemis Group,eToro
+Abu Dhabi Investment Authority,Citi
 ValueAct Capital,Citi
+Andreessen Horowitz,CoinSwitch Kuber
+Tiger Global Management,CoinSwitch Kuber
+Paradigm,CoinSwitch Kuber
+Coinbase Ventures,CoinSwitch Kuber
+Sequoia Capital India,CoinSwitch Kuber
 LoftyInc Capital Management,Flutterwave
+Lux Capital,Flutterwave
+B Capital Group,Flutterwave
+Mastercard,Flutterwave
+Insight Partners,Flutterwave
 Comcast,Blockdaemon
 Voyager,Blockdaemon
+Goldman Sachs,Blockdaemon
+Lerer Hippeau,Blockdaemon
+Tiger Global Management,Blockdaemon
+Union Square Ventures,Algorand
 Lemniscap,Algorand
+ICONIUM,Algorand
+Endeavor,2TM
 MercadoLibre,2TM
+Tribe Capital,2TM
 TC - TradersClub,2TM
+Sand Hill Angels,2TM
 Pershing Square Capital Management,Berkshire Hathaway
+Tencent,Epic Games
+BlackRock,Epic Games
+T. Rowe Price,Epic Games
+Baillie Gifford,Epic Games
+Bracket Capital,Epic Games
+GV,Digits
+Crowdcube,Crowdcube
 Circle,Crowdcube
+Draper Associates,Crowdcube
+Molten Ventures,Crowdcube
+Balderton Capital,Crowdcube
+Draper Associates,Forge
+Temasek Holdings,Forge
 Deutsche Borse,Forge
+Streamlined Ventures,Forge
 Panorama Point Partners,Forge
+American Rescue Plan,Comcast
 Trian Fund Management,Comcast
-Aavishkaar Venture Capital,AgroStar
+Insight Partners,Coda Payments
+MDI Ventures,Coda Payments
+GIC,Coda Payments
+Golden Gate,Coda Payments
+Google Launchpad Accelerator,Coda Payments
+Matrix Partners,Chalo
+Kalaari Capital,Chalo
+Lightrock,Chalo
+Trifecta Capital Advisors,Chalo
+Raine Ventures,Chalo
+Aavishkaar Venture Capital,Financepeer
+QED Investors,Financepeer
+9Unicorns Accelerator Fund,Financepeer
+Sequoia Capital,Google
 Yahoo,Google
+Kleiner Perkins,Google
+Gaingels,Fuzzy
+Matrix Partners,Fuzzy
+Sand Hill Angels,Fuzzy
+Precursor Ventures,Fuzzy
+Eniac Ventures,Fuzzy
+Andreessen Horowitz,DFINITY
+Polychain,DFINITY
 IOSG Ventures,DFINITY
+CoinFund,DFINITY
 StepStone Group,Filevine
-Golub Capital,E2open
+Golub Capital,Filevine
 Album VC,Filevine
 Signal Peak Ventures,Filevine
-Meritech Capital Partners,Alteryx
+Meritech Capital Partners,Filevine
+8VC,Airbyte
+Y Combinator,Airbyte
+Accel,Airbyte
+Coatue,Airbyte
 Clearco,Cart.com
+JP Morgan,Cart.com
+Gaingels,Cart.com
+Visa,Cart.com
+Oak HC/FT,Cart.com
+OfBusiness,FarMart
+LetsVenture,FarMart
+500 Startups,FarMart
+Matrix Partners India,FarMart
+Kleiner Perkins,Amazon
 AOL,Amazon
+TCV,Datto
 Swicorp,Endeavor
+EQT,Dojo
+Greylock,AiFi
+Qualcomm Ventures,AiFi
+Khaira Capital,AiFi
 Zabka Polska,AiFi
-StartX (Stanford-StartX Fund),EdCast
+StartX (Stanford-StartX Fund),AiFi
+Bain Capital,Axis Bank
 Court Square Capital Partners,Axis Bank
 Life Insurance Corporation of India,Axis Bank
 Karur Vysya Bank,Axis Bank
-Didi,Bolt
-Amplify Partners,Fastly
-Rock Springs Capital,Adaptive Biotechnologies
+Digital Currency Group,Circle
+Blockchain Capital,Circle
+CICC,Circle
+Accel,BookMyShow
+Stripes,BookMyShow
+SAIF Partners,BookMyShow
+TPG Growth,BookMyShow
+Rakuten,Careem
+Daimler,Careem
+Coatue,Careem
+Didi,Careem
+Wamda Capital,Careem
+RRE Ventures,Datadog
+Index Ventures,Datadog
+Amplify Partners,Datadog
+Institutional Venture Partners,Datadog
+500 Startups,GitLab
+Goldman Sachs,GitLab
+GV,GitLab
+Y Combinator,GitLab
+Liquid 2 Ventures,GitLab
+Venrock,Bristol Myers Squibb
+RA Capital Management,Bristol Myers Squibb
+Vivo Capital,Bristol Myers Squibb
+Rock Springs Capital,Bristol Myers Squibb
+Y Combinator,Ginkgo Bioworks
+Baillie Gifford,Ginkgo Bioworks
+MassVentures,Ginkgo Bioworks
+T. Rowe Price,Ginkgo Bioworks
+DCVC,Ginkgo Bioworks
+European Investment Bank,Ericsson
+Nordic Investment Bank,Ericsson
+Tencent,Airwallex
+Sequoia Capital,Airwallex
+Hillhouse Capital Group,Airwallex
+Mastercard,Airwallex
+Sequoia Capital China,Airwallex
+Tiger Global Management,Built Robotics
+Fifth Wall,Built Robotics
+New Enterprise Associates,Built Robotics
+Digital Currency Group,CoinList
+Blockchain Capital,CoinList
+Polychain,CoinList
+Electric Capital,CoinList
+LD Capital,CoinList
+Maverick Ventures,ConcertAI
+Sixth Street,ConcertAI
+Declaration Partners,ConcertAI
 AllianceBernstein,ConcertAI
 SymphonyAI,ConcertAI
+Baillie Gifford,Anaplan
+Coatue,Anaplan
+Shasta Ventures,Anaplan
 Workday,Anaplan
+Sands Capital Ventures,Anaplan
+Bpifrance,Doctolib
+Eurazeo,Doctolib
+Accel,Doctolib
+General Atlantic,Doctolib
 Kerala Ventures,Doctolib
+Neuberger Berman Group,ChargePoint
+Baillie Gifford,ChargePoint
+Daimler,ChargePoint
+Siemens,ChargePoint
+GIC,ChargePoint
+Partners Group,Climeworks
+Baillie Gifford,Climeworks
+Global Founders Capital,Climeworks
+GIC,Climeworks
+Silver Lake,Fanatics
+Andreessen Horowitz,Fanatics
+Neuberger Berman Group,Fanatics
+Insight Partners,Fanatics
+Alibaba Group,Fanatics
 Canvas Ventures,Branch
-Cowboy Ventures,Drata
-Pear VC,Affinity
-Cleo Capital,BlocPower
+New Enterprise Associates,Branch
+Cowboy Ventures,Branch
+Pear VC,Branch
+8VC,Forethought
+New Enterprise Associates,Forethought
+South Park Commons,Forethought
+Cleo Capital,Forethought
+SoftBank,Darktrace
+Insight Partners,Darktrace
+Vitruvian Partners,Darktrace
+Summit Partners,Darktrace
+Kohlberg Kravis Roberts,Darktrace
+Invesco,Capchase
+Gaingels,Capchase
+BoxGroup,Capchase
+QED Investors,Capchase
+Caffeinated Capital,Capchase
+BlackRock,Chewy
+Volition Capital,Chewy
 Verlinvest,Chewy
+Lone Pine Capital,Chewy
+Greenspring Associates,Chewy
+Insight Partners,Apna
+Tiger Global Management,Apna
+Sequoia Capital India,Apna
+Maverick Ventures,Apna
+Owl Ventures,Apna
+B Capital Group,6sense
+Insight Partners,6sense
+Tiger Global Management,6sense
+SoftBank Vision Fund,6sense
+Microsoft,DocuSign
+Insight Partners,DocuSign
+GV,DocuSign
+Accel,DocuSign
+Visa,DocuSign
+Tiger Global Management,Games24x7
+SoftBank Vision Fund,Esusu Financial
+Serena Ventures,Esusu Financial
+Plug and Play Tech Center,Esusu Financial
+Kleiner Perkins,Esusu Financial
+Accel,DJI
+Sequoia Capital China,DJI
+IDG Capital,Fastly
+Amplify Partners,Fastly
+Sorenson Capital,Fastly
+Battery Ventures,Fastly
+Sequoia Capital,Clipboard Health
+Spark Capital,Clipboard Health
+Y Combinator,Clipboard Health
+Initialized Capital,Clipboard Health
+Caffeinated Capital,Clipboard Health
+Google,Cloudflare
+Union Square Ventures,Cloudflare
+Qualcomm Ventures,Cloudflare
+Venrock,Cloudflare
+Galaxy Digital,Ava Labs
+Andreessen Horowitz,Ava Labs
+Polychain,Ava Labs
+Initialized Capital,Ava Labs
+Dragonfly Capital Partners,Ava Labs
 gumi Cryptos Capital (gCC),Celsius Network
+Caisse de Depot et Placement du Quebec,Celsius Network
 WestCap,Celsius Network
 Disrupt Ventures,Celsius Network
 Alpha Sigma Capital,Celsius Network
+Union Square Ventures,Etsy
+Accel,Etsy
+TPG,Etsy
+Index Ventures,Etsy
+Breyer Capital,Etsy
+Spark Capital,Clarify Health Solutions
+Insight Partners,Clarify Health Solutions
+BlackRock,Clarify Health Solutions
+SoftBank Vision Fund,Clarify Health Solutions
+StartX (Stanford-StartX Fund),Clarify Health Solutions
+2TM,Figment
+Galaxy Digital,Figment
+Ava Labs,Figment
 Anchorage,Figment
+Mirae Asset Global Investments,Figment
 Tally Capital,Blockchain Capital
+8VC,Clearco
+SoftBank Vision Fund,Clearco
+Oak HC/FT,Clearco
+Crowdcube,FIDEL API
+500 Startups,FIDEL API
+QED Investors,FIDEL API
+Horizons Ventures,FIDEL API
+Nyca Partners,FIDEL API
+Gaingels,Binance.US
+RRE Ventures,Binance.US
+Bossa Nova Investimentos,Binance.US
+Foundation Capital,Binance.US
 Orange,Deezer
+Access Industries,Deezer
+Idinvest Partners,Deezer
 Kingdom Holding Company,Deezer
+Apollo,Anchorage
+Blockchain Capital,Anchorage
+Andreessen Horowitz,Anchorage
+Lux Capital,Anchorage
+Goldman Sachs,Anchorage
+Tiger Global Management,Captain Fresh
+Accel,Captain Fresh
+Khaira Capital,Captain Fresh
 American Family Ventures,gener8tor
 CSA Partners LLC,gener8tor
+Eurazeo,Avi Medical
+Addition,Avi Medical
+Balderton Capital,Avi Medical
+Operator Partners,Avi Medical
+Picus Capital,Avi Medical
 Boost VC,21Shares
 Morgan Creek Digital,21Shares
-HeroMotoCorp Ltd,Ather Energy
+Zoom,Genesys
+BlackRock,Genesys
+ServiceNow,Genesys
+Hellman & Friedman,Genesys
+TCV,Genesys
+Temasek Holdings,Bayer
+Aavishkaar Venture Capital,AgroStar
+Accel,AgroStar
+CDC Group,AgroStar
+HeroMotoCorp Ltd,AgroStar
+InnoVen Capital,AgroStar
+Accel,G2
 LinkedIn,G2
+Institutional Venture Partners,G2
 Chicago Ventures,G2
-ICONIQ Capital,Alteryx
+Temasek Holdings,Adyen
+Index Ventures,Adyen
+General Atlantic,Adyen
+Felicis Ventures,Adyen
+ICONIQ Capital,Adyen
+Andreessen Horowitz,Current
+Tiger Global Management,Current
+QED Investors,Current
+Bienville Capital,Current
+Avenir Growth Capital,Current
+Apollo,CAIS
+Franklin Templeton Investments,CAIS
+Eldridge,CAIS
+JP Morgan Chase,Bitwise Industries
+Reach Capital,Bitwise Industries
+Kapor Capital,Bitwise Industries
+Western Technology Investment,Bitwise Industries
 Niantic,DigiLens
+Samsung Electronics,DigiLens
 Corning,DigiLens
+Foxconn Technology Group,DigiLens
+Sony Innovation Fund,DigiLens
+Y Combinator,Biobot Analytics
+Liquid 2 Ventures,Biobot Analytics
+DCVC,Biobot Analytics
 Dorm Room Fund,Biobot Analytics
-Clocktower Technology Ventures,CircleUp
+Citi,Capitolis
+JP Morgan,Capitolis
+Sequoia Capital,Capitolis
+Andreessen Horowitz,Capitolis
+Spark Capital,Capitolis
+Endeavor,Dolado
+Global Founders Capital,Dolado
+Flourish Ventures,Dolado
+Clocktower Technology Ventures,Dolado
 Norte Ventures,Dolado
+Vertex Ventures,Axonius
+Accel,Axonius
+Stripes,Axonius
+Bessemer Venture Partners,Axonius
+Lightspeed Venture Partners,Axonius
+Sequoia Capital,Bird
+B Capital Group,Bird
+M13,Bird
+Accel,Bird
+Delivery Hero,Foodpanda
+Rocket Internet,Foodpanda
+Prosus & Naspers,Foodpanda
+Kinnevik,Foodpanda
 Phenomen,Foodpanda
+Silver Lake,Clari
+Sequoia Capital,Clari
+B Capital Group,Clari
+Khaira Capital,Clari
+Bain Capital Ventures,Clari
+Barclays,DailyPay
+Fin Venture Capital,DailyPay
+Evolution VC Partners,DailyPay
+Sand Hill Angels,DailyPay
+Techstars,Alloy
+Flourish Ventures,Alloy
+Bessemer Venture Partners,Alloy
+Lightspeed Venture Partners,Alloy
+Primary Venture Partners,Alloy
+OurCrowd,Data.world
+Goldman Sachs Asset Management,Data.world
+Shasta Ventures,Data.world
+Breyer Capital,Data.world
+Alpha Wave Global,1K Kirana Bazaar
 Kae Capital,1K Kirana Bazaar
+Andreessen Horowitz,Box
 Telstra,Box
 Telefonica,Box
+TPG,Box
+Coatue,Box
+Silver Lake,GoDaddy
+Kohlberg Kravis Roberts,GoDaddy
+TCV,GoDaddy
 Starboard Value,GoDaddy
+Redpoint,DraftKings
+FirstMark,DraftKings
+Flybridge,DraftKings
 Major League Soccer,DraftKings
+GGV Capital,DraftKings
+Lyft,Argo AI
 Ford Motor,Argo AI
 Volkswagen Group,Argo AI
 Youth Business International,Accenture
-Cervin,EdCast
+Techstars,DigitalOcean
+Trinity Capital,DigitalOcean
+Andreessen Horowitz,DigitalOcean
+Right Side Capital Management,DigitalOcean
+Norwest Venture Partners,Celona
+Qualcomm Ventures,Celona
+Lightspeed Venture Partners,Celona
+Cervin,Celona
+Andreessen Horowitz,BuzzFeed
+RRE Ventures,BuzzFeed
+Founder Collective,BuzzFeed
+Lerer Hippeau,BuzzFeed
+General Atlantic,BuzzFeed
+500 Startups,CircleCI
+DCVC,CircleCI
+Scale Venture Partners,CircleCI
+Threshold,CircleCI
+Institutional Venture Partners,CircleCI
+Winklevoss Capital,Ethereum Foundation
 KR1,Ethereum Foundation
+Tribe Capital,FTX US
+Temasek Holdings,FTX US
+Paradigm,FTX US
+Lightspeed Venture Partners,FTX US
+Goldman Sachs,Beqom
+Eurazeo,Beqom
+Swisscom Ventures,Beqom
+Sumeru Equity Partners,Beqom
+Golub Capital,Beqom
 Moglix,Euler Motors
+Blume Ventures,Euler Motors
 Emergent Ventures,Euler Motors
+Andreessen Horowitz,BlockTower Capital
+Union Square Ventures,BlockTower Capital
 Blue Collective,BlockTower Capital
+Union Square Ventures,Funding Circle
+BlackRock,Funding Circle
+Rocket Internet,Funding Circle
+Accel,Funding Circle
+Baillie Gifford,Funding Circle
+Animoca Brands,Dapper Labs
+Digital Currency Group,Dapper Labs
+Andreessen Horowitz,Dapper Labs
+BlockTower Capital,Dapper Labs
+500 Startups,FinAccel
+Mirae Asset Global Investments,FinAccel
+MDI Ventures,FinAccel
+Jungle Ventures,FinAccel
+Cathay Innovation,FinAccel
+Y Combinator,Credpal
 Startupbootcamp,Credpal
 VC4A,Credpal
+Gaingels,Diligent Robotics
+Tiger Global Management,Diligent Robotics
 Next Coast Ventures,Diligent Robotics
+Capital Factory,Diligent Robotics
 Sedgwick Claims Management Services,EvolutionIQ
+Asymmetry Ventures,EvolutionIQ
+FirstMark,EvolutionIQ
+Plug and Play Tech Center,EvolutionIQ
+First Round Capital,EvolutionIQ
+Ceras Ventures,Fasset
+Soma Capital,Fasset
 Liberty City Ventures,Fasset
+Tencent,CICC
+TPG,CICC
 K2,Fyllo
 Sol Global investments,Fyllo
 ArrowMark Partners,Fyllo
 Phyto Partners,Fyllo
+Village Capital,Global Data Consortium
 Refinitiv,Global Data Consortium
 VilCap Investments,Global Data Consortium
-Mitsubishi UFJ Financial Group,ChargeAfter
+Tiger Global Management,Ather Energy
+HeroMotoCorp Ltd,Ather Energy
+InnoVen Capital,Ather Energy
+Sequoia Capital,Ethos
+Goldman Sachs,Ethos
+GV,Ethos
+Accel,Ethos
+Tencent,Afterpay
+Coatue,Afterpay
+Mitsubishi UFJ Financial Group,Afterpay
 Wintermute Trading,Bitpanda
-Hikma Ventures,Altibbi
+Jump Capital,Bitpanda
+Valar Ventures,Bitpanda
+Speedinvest,Bitpanda
+DST Global,Bitpanda
+500 Startups,Goldbelly
+FundersClub,Goldbelly
+Y Combinator,Goldbelly
+Draper Associates,Goldbelly
+Global Founders Capital,Goldbelly
+LetsVenture,BluSmart Mobility
+BlackSoil,BluSmart Mobility
+Venture Catalysts,BluSmart Mobility
+Inflection Point Ventures,BluSmart Mobility
+9Unicorns Accelerator Fund,BluSmart Mobility
+Hikma Ventures,Click Therapeutics
 Boehringer Ingelheim,Click Therapeutics
 Health Catalyst Capital,Click Therapeutics
 Sanofi Ventures,Click Therapeutics
+Sequoia Capital,Cohesity
+GV,Cohesity
+SoftBank Vision Fund,Cohesity
+Accel,Cohesity
+Baillie Gifford,Cohesity
 H.I.G. Capital,Cuyana
+Canaan Partners,Cuyana
 InterWest Partners,Cuyana
+Blockchain Capital,Aave
+ParaFi Capital,Aave
 Framework Ventures,Aave
 Three Arrows Capital,Aave
 Standard Crypto,Aave
+Animoca Brands,Decentraland
+Digital Currency Group,Decentraland
 Fabric Ventures,Decentraland
-Fundamental Labs,Binance
+Fundamental Labs,Decentraland
+T. Rowe Price,Coupa Software
+Crosslink Capital,Coupa Software
+BlueRun Ventures,Coupa Software
+Battery Ventures,Coupa Software
+Rakuten,Azimo
+Quona Capital,Azimo
+Anthemis Group,Azimo
+HSBC,Capital on Tap
 TriplePoint Venture Growth,Capital on Tap
+BNP Paribas,Capital on Tap
+Citibank,Capital on Tap
 Pollen Street Capital,Capital on Tap
+BlackRock,Envestnet
+TCV,Envestnet
+Upfront Ventures,Envestnet
+Foundation Capital,Envestnet
 Keystone Capital,Envestnet
+BlackRock,Exo
+RA Capital Management,Exo
+Sony Innovation Fund,Exo
+Intel Capital,Exo
+TDK Ventures,Exo
+Goldman Sachs,Deserve
+Mastercard,Deserve
+Accel,Deserve
+Credit Suisse,Deserve
+Mayfield Fund,EnKash
+Axilor Ventures,EnKash
+Ascent Capital,EnKash
+Alpha Wave Global,Avail Finance
+Matrix Partners India,Avail Finance
+Alteria Capital,Avail Finance
+SoftBank Vision Fund,Forto
+Global Founders Capital,Forto
+Northzone,Forto
 Disruptive,Forto
+Cherry Ventures,Forto
+Fenbushi Capital,BitMart
 Alpha Square Group,BitMart
+Goldman Sachs,Fundrise
+Collaborative Fund,Fundrise
 Guggenheim Partners,Fundrise
+Renren,Fundrise
 BACKED VC,Amenitiz
+Eight Roads Ventures,Amenitiz
+Point Nine,Amenitiz
 Otium Capital,Amenitiz
+SoftBank,Fair
+SoftBank Vision Fund,Fair
+Valor Equity Partners,Fair
+G Squared,Fair
+FundersClub,Go1
+Y Combinator,Go1
+Tiger Global Management,Go1
+SoftBank Vision Fund,Go1
+AirTree Ventures,Go1
+Andreessen Horowitz,Aptos
+BlockTower Capital,Aptos
+Hashed,Aptos
+Tiger Global Management,Aptos
+IDG Capital,Course Hero
+TPG,Course Hero
+Interplay,Course Hero
+Innovation Endeavors,Course Hero
+Maveron,Course Hero
+Balderton Capital,Coronet
 Jerusalem Venture Partners (JVP),Coronet
 MizMaa Ventures,Coronet
 Sound Ventures,Coronet
-Northpond Ventures,DNAnexus
+IDG Capital,Bizongo
+B Capital Group,Bizongo
+Tiger Global Management,Bizongo
+Accel,Bizongo
+International Finance Corporation,Bizongo
+Warburg Pincus,Eleanor Health
+Northpond Ventures,Eleanor Health
 Echo Health Ventures,Eleanor Health
+The Carlyle Group,Ampere Computing
 Oracle,Ampere Computing
 Arm Holdings,Ampere Computing
+Temasek Holdings,Gogoro
 Engie,Gogoro
 HTC,Gogoro
+Generation Investment Management,Gogoro
+Slow Ventures,Birchbox
+Accel,Birchbox
+Lerer Hippeau,Birchbox
+Brand Foundry Ventures,Birchbox
+Forerunner Ventures,Birchbox
+AngelList,Chingari
+Galaxy Digital,Chingari
+Kraken,Chingari
+White Star Capital,Chingari
+Protocol Labs,Chingari
+Tiger Global Management,Delhivery
+The Carlyle Group,Delhivery
+SoftBank Vision Fund,Delhivery
+Baillie Gifford,Delhivery
+Tiger Global Management,Cogoport
+Accel,Cogoport
+DST Global,Cogoport
+Visa,ChargeAfter
+Plug and Play Tech Center,ChargeAfter
+Propel Venture Partners,ChargeAfter
+Citi Ventures,ChargeAfter
+Mitsubishi UFJ Financial Group,ChargeAfter
+Qatar Investment Authority,Fluence
 Twilio,Algolia
-City Light Capital,Arcadia
+500 Startups,Algolia
+Y Combinator,Algolia
+Initialized Capital,Algolia
+Accel,Algolia
+Shopify,Flexport
+Andreessen Horowitz,Flexport
+8VC,Flexport
+FundersClub,Flexport
+Wells Fargo,Flexport
+Sequoia Capital,Apollo.io
+Y Combinator,Apollo.io
+Tribe Capital,Apollo.io
+Nexus Venture Partners,Apollo.io
+Sand Hill Angels,Apollo.io
+Gaingels,Brightline
+GV,Brightline
+City Light Capital,Brightline
+Oak HC/FT,Brightline
+Threshold,Brightline
 ArcTern Ventures,Emitwise
+True Ventures,Emitwise
 Social Impact Capital,Emitwise
+Sequoia Capital,DataStax
+Lightspeed Venture Partners,DataStax
+Crosslink Capital,DataStax
+Scale Venture Partners,DataStax
+Kleiner Perkins,DataStax
 JCDecaux,Eurazeo
+SoftBank,ada
 Sumitomo Corporation,ada
 Adobe,Demandbase
-Forum Ventures,Firstbase
+Scale Venture Partners,Demandbase
+Altos Ventures,Demandbase
+Salesforce Ventures,Demandbase
+500 Startups,BillionToOne
+Norwest Venture Partners,BillionToOne
+Y Combinator,BillionToOne
+Baillie Gifford,BillionToOne
+Fifty Years,BillionToOne
+Y Combinator,Drip Capital
+Liquid 2 Ventures,Drip Capital
+Initialized Capital,Drip Capital
+Accel,Drip Capital
+Sequoia Capital India,Drip Capital
+Digital Currency Group,BitPay
+RRE Ventures,BitPay
+SeedInvest,BitPay
+Menlo Ventures,BitPay
+NewSpring,ExecOnline
+Forum Ventures,ExecOnline
 ABS Capital Partners,ExecOnline
 Washington Post,ExecOnline
-MaC Venture Capital,Electric Capital
-Harlem Capital Partners,Compt
+Y Combinator,dyte
+Nexus Venture Partners,dyte
+Surge,dyte
+Animoca Brands,Community Gaming
+ConsenSys,Community Gaming
+Dapper Labs,Community Gaming
+BITKRAFT Ventures,Community Gaming
+Hashed,Community Gaming
+White Star Capital,Dialogue
+Caisse de Depot et Placement du Quebec,Dialogue
+HV Capital,Dialogue
+500 Startups,Blavity
+GV,Blavity
+MaC Venture Capital,Blavity
+Harlem Capital Partners,Blavity
 Base Ventures,Blavity
-Fairfax Financial Holdings,Blackberry
+Fairfax Financial Holdings,Digit Insurance
+Sequoia Capital India,Digit Insurance
+Wellington Management,Digit Insurance
+Navi Technologies,Bounce
+B Capital Group,Bounce
+Accel,Bounce
+Qualcomm Ventures,Bounce
+Sequoia Capital India,Bounce
+Tiger Global Management,Arcadia
+BoxGroup,Arcadia
+Bracket Capital,Arcadia
+City Light Capital,Arcadia
 Bregal Sagemount,Critical Start
+Goldman Sachs,ElasticRun
+Norwest Venture Partners,ElasticRun
+Kalaari Capital,ElasticRun
+SoftBank Vision Fund,ElasticRun
+Prosus Ventures,ElasticRun
+SoftBank Vision Fund,Extend
+Graph Ventures,Extend
 Lightbank,Extend
-Highland Europe,Goodlord
+American Express Ventures,Extend
+Bpifrance,Deepki
+Highland Europe,Deepki
+One Peak Partners,Deepki
+Ascension,Credit Kudos
+Plug and Play Tech Center,Credit Kudos
+TriplePoint Capital,Credit Kudos
 360 Capital,Everli
+Bossa Nova Investimentos,Everli
+DN Capital,Everli
 United Ventures,Everli
+FMO,Aavishkaar Venture Capital
 Triodos Investment Management,Aavishkaar Venture Capital
 Shell Foundation,Aavishkaar Venture Capital
 Splunk,Aclima
+Emerson Collective,Aclima
+Kapor Capital,Aclima
+Microsoft Climate Innovation Fund,Aclima
+Pantera Capital,Ankr
+DHVC,Ankr
+NEO Global Capital (NGC),Ankr
 Mapleblock Capital,Ankr
+Rakuten,Carousell
+500 Startups,Carousell
+Naver,Carousell
+Sequoia Capital India,Carousell
+Andreessen Horowitz,Fivetran
+Y Combinator,Fivetran
+Matrix Partners,Fivetran
+Eurazeo,Dataiku
+Insight Partners,Dataiku
+Tiger Global Management,Dataiku
+FirstMark,Dataiku
+Stripes,Dataiku
+Sequoia Capital,Cyera
+Accel,Cyera
+Cyberstarts,Cyera
+Bain Capital,Attivo Networks
+Energy Impact Partners,Attivo Networks
+Bain Capital Ventures,Attivo Networks
+Forgepoint Capital,Attivo Networks
+Menlo Ventures,EdCast
+StartX (Stanford-StartX Fund),EdCast
+Cervin,EdCast
+Kapor Capital,EdCast
+Stanford University,EdCast
+Primary Venture Partners,Black Crow AI
+Interplay,Black Crow AI
+Good Friends,Black Crow AI
+BlockTower Capital,Enjin
+Hashed,Enjin
+ICONIUM,Enjin
+Fairfax Financial Holdings,Blackberry
+Warburg Pincus,Aura
+Accel,Aura
+WndrCo,Aura
+9Yards Capital,8VC
+Sequoia Capital,DoorDash
+FundersClub,DoorDash
+Y Combinator,DoorDash
+SoftBank Vision Fund,DoorDash
+Digital Currency Group,Figure
+Apollo,Figure
+JP Morgan,Figure
+HOF Capital,Figure
+Fin Venture Capital,Figure
 Accel-KKR,Birdeye
-Trinity Ventures,Auth0
+AME Cloud Ventures,Birdeye
+Trinity Ventures,Birdeye
 World Innovation Lab (WiL),Birdeye
+Slow Ventures,Embark
+SoftBank Vision Fund,Embark
+F-Prime Capital,Embark
+Founder Collective,Embark
 Section 32,Embark
+Digital Currency Group,Abra
+2TM,Abra
+Blockchain Capital,Abra
+Stellar Development Foundation,Abra
+LAUNCH,Abra
+Gaingels,Cleo
+Greylock,Cleo
+New Enterprise Associates,Cleo
+Forerunner Ventures,Cleo
 Roche,Freenome
-Susa Ventures,Cottage
+Novartis,Freenome
+Andreessen Horowitz,Freenome
+GV,Freenome
+T. Rowe Price,Freenome
+Andreessen Horowitz,Flock Homes
+BoxGroup,Flock Homes
+Primary Venture Partners,Flock Homes
+Human Capital,Flock Homes
+Susa Ventures,Flock Homes
+L Catterton,FLASH
 Austin Ventures,FLASH
 Geekdom Fund,FLASH
+Gaingels,Esper
+Insight Partners,Esper
+Tech Coast Angels,Esper
+Haystack,Esper
+Scale Venture Partners,Esper
+Northern Arc,Aye Finance
+Lightrock,Aye Finance
 responsAbility,Aye Finance
+Alpha Wave Global,Aye Finance
+Animoca Brands,bitsCrunch
+Coinbase Ventures,bitsCrunch
+LedgerPrime,bitsCrunch
+Matrix Partners,Apartment List
+Janus Henderson Investors,Apartment List
 Nimble Ventures,Apartment List
 Industry Ventures,Apartment List
-Sapphire Ventures,Five9
-LionTree,Cross River
+Canaan Partners,Apartment List
+Insight Partners,Alteryx
+Toba Capital,Alteryx
+ICONIQ Capital,Alteryx
+Meritech Capital Partners,Alteryx
+Sapphire Ventures,Alteryx
+Northzone,fuboTV
+LionTree,fuboTV
+DCM Ventures,fuboTV
 I2BF Global Ventures,fuboTV
-Line,Funding Societies
+BoxGroup,Dataminr
+Valor Equity Partners,Dataminr
+Credit Suisse,Dataminr
+SoftBank,Bear Robotics
+Line,Bear Robotics
 FuturePlay,Bear Robotics
 Cleveland Avenue,Bear Robotics
+8VC,Affinity
+Menlo Ventures,Affinity
+Western Technology Investment,Affinity
+Pear VC,Affinity
+K1 Investment Management,Cyara
+PeakSpan Capital,Cyara
+Greenspring Associates,Cyara
+Bessemer Venture Partners,ComboCurve
+Dragoneer Investment Group,ComboCurve
+OurCrowd,Future Family
+Evolution VC Partners,Future Family
+Ulu Ventures,Future Family
+HDFC Bank,Bandhan Bank
+International Finance Corporation,Bandhan Bank
+GIC,Bandhan Bank
+Abu Dhabi Investment Authority,Bandhan Bank
+SoftBank Vision Fund,Apollo Agriculture
+Anthemis Group,Apollo Agriculture
+Musha Ventures,Apollo Agriculture
+Flourish Ventures,Apollo Agriculture
+Breyer Capital,Apollo Agriculture
+New Enterprise Associates,ForAllSecure
+DARPA,ForAllSecure
+Neuberger Berman Group,Druva
+Hercules Capital,Druva
+Sequoia Capital India,Druva
+Nexus Venture Partners,Druva
+EDBI,Druva
+Berkshire Hathaway,Aon plc
+Insight Partners,Bubble
+BoxGroup,Bubble
+SignalFire,Bubble
+Lightspeed Venture Partners,Encantos
+Precursor Ventures,Encantos
+Kapor Capital,Encantos
+Bossa Nova Investimentos,Encantos
+Techstars,Dapio
 Flutterwave,Dapio
+Asymmetry Ventures,Dapio
 Mousse Partners,Brightside Health
-Village Global,Evisort
+Village Global,Brightside Health
 Bullpen Capital,Brightside Health
+EDBI,Bolttech
+Activant Capital,Bolttech
 Alma Mundi Ventures,Bolttech
+8VC,Evernow
+New Enterprise Associates,Evernow
 Refactor Capital,Evernow
+Insight Partners,BlueOcean
+FJ Labs,BlueOcean
 Global Venture Capital,BlueOcean
+Silver Lake,Foursquare
+Andreessen Horowitz,Foursquare
+Microsoft,Foursquare
+Morgan Stanley,Foursquare
+Spark Capital,Foursquare
+Battery Ventures,Compt
+Harlem Capital Partners,Compt
 Impellent Ventures,Compt
+Y Combinator,54gene
+Bienville Capital,54gene
+Fifty Years,54gene
+Hack VC,54gene
+Cathay Innovation,54gene
+Accel,Causal
+Coatue,Causal
+Rocket Internet,Goodlord
+QED Investors,Goodlord
+Global Founders Capital,Goodlord
+Ribbit Capital,Goodlord
+Highland Europe,Goodlord
+500 Startups,Funding Societies
+Line,Funding Societies
+SoftBank Vision Fund,Funding Societies
+Sequoia Capital India,Funding Societies
+Alpha JWC Ventures,Funding Societies
+F-Prime Capital,Doceree
+Eight Roads Ventures,Doceree
+Norwest Venture Partners,fabric
+B Capital Group,fabric
+Redpoint,fabric
+SoftBank Vision Fund,fabric
+Stripes,fabric
+Nyca Partners,Canopy
+New Enterprise Associates,Canopy
 EPIC Ventures,Canopy
 NewView Capital,Canopy
+Toba Capital,Conversica
+CIBC,Conversica
+Providence Equity Partners,Conversica
 Morgan Stanley Expansion Capital,Conversica
-Wayra,Ascension
+Wayra,Crehana
+Rethink Education,Crehana
+General Atlantic,Crehana
 Alive Ventures,Crehana
+SoftBank,Arcus
+FundersClub,Arcus
+Musha Ventures,Arcus
+Maverick Ventures,Arcus
+Credit Suisse,FINN
+White Star Capital,FINN
+Picus Capital,FINN
+HV Capital,FINN
+Techstars,ClassPass
+GV,ClassPass
+BoxGroup,ClassPass
+M13,ClassPass
+Sequoia Capital,Citizen
+Lux Capital,Citizen
+8VC,Citizen
+Goodwater Capital,Citizen
+Slow Ventures,Citizen
+Andreessen Horowitz,ChartHop
+Flybridge,ChartHop
+Shrug Capital,ChartHop
+Cowboy Ventures,ChartHop
+SoftBank Vision Fund,Forward
+DCVC,Forward
+Khosla Ventures,Forward
+SV Angel,Forward
 GirnarSoft,CollegeDekho
 Winter Capital Advisors,CollegeDekho
+Insight Partners,Beewise
+lool Ventures,Beewise
+Corner Ventures,Beewise
 Fortissimo Capital,Beewise
+Techstars,EnrichHER
 Lighthouse Labs RVA,EnrichHER
 Fearless Fund,EnrichHER
 Techstars Anywhere Accelerator,EnrichHER
+Wavemaker Partners,500 Startups
+Greylock,Gem
+Y Combinator,Gem
+Liquid 2 Ventures,Gem
+Accel,Gem
+ICONIQ Growth,Gem
+Techstars,Gig Wage
+Revolution,Gig Wage
 Green Dot,Gig Wage
 gener8tor,Fiveable
+Union Square Ventures,Fiveable
+AT&T,Fiveable
 BBG Ventures,Fiveable
+Serena Ventures,Fiveable
+Andreessen Horowitz,Firstbase
+B Capital Group,Firstbase
+Forum Ventures,Firstbase
+Kleiner Perkins,Firstbase
+Sequoia Capital,Carbon
+GV,Carbon
+Baillie Gifford,Carbon
+Temasek Holdings,Carbon
 Global Ventures,Altibbi
+Bossa Nova Investimentos,Altibbi
+Hikma Ventures,Altibbi
 DASH Ventures,Altibbi
 Huobi,Boba Network
 BitMart,Boba Network
+M13,Boba Network
+Hack VC,Boba Network
+Sequoia Capital,CaptivateIQ
+Y Combinator,CaptivateIQ
+Accel,CaptivateIQ
+Bessemer Venture Partners,CaptivateIQ
+Insight Partners,Automattic
+Tiger Global Management,Automattic
+BlackRock,Automattic
+True Ventures,Automattic
+Salesforce Ventures,Automattic
+Apple,Corning
 Biomedical Advanced Research and Development Authority (BARDA),Corning
+Sequoia Capital,Ascend.io
+8VC,Ascend.io
+Tiger Global Management,Ascend.io
+Accel,Ascend.io
+Shasta Ventures,Ascend.io
+Norwest Venture Partners,Amagi Media Labs
+Accel,Amagi Media Labs
+Mayfield Fund,Amagi Media Labs
+Tencent,Blockstream
+AngelList,Blockstream
+Blockchain Capital,Blockstream
+Gaingels,Blockstream
+Baillie Gifford,Blockstream
 Nazara Technologies,BITKRAFT Ventures
+Animoca Brands,ConsenSys
+Microsoft,ConsenSys
+HSBC,ConsenSys
+JP Morgan Chase,ConsenSys
+BNY Mellon,ConsenSys
+Bessemer Venture Partners,Auth0
+Telstra Ventures,Auth0
+Trinity Ventures,Auth0
+DTCP,Auth0
+Techstars,Arweave
+Andreessen Horowitz,Arweave
+Union Square Ventures,Arweave
+Coinbase Ventures,Arweave
+Andreessen Horowitz,Deepcell
+Fifty Years,Deepcell
+Casdin Capital,Deepcell
+DCVC,Deepcell
+Horizons Ventures,Deepcell
+Citi,Advantage Capital
+Greylock,Cloudera
+GV,Cloudera
+T. Rowe Price,Cloudera
+Accel,Cloudera
+In-Q-Tel,Cloudera
+Coinbase,Dfns
 Figment,Dfns
+Bpifrance,Dfns
+Hashed,Dfns
+White Star Capital,Dfns
+Base10 Partners,Cottage
+Fifth Wall,Cottage
+Susa Ventures,Cottage
 DivcoWest,Cottage
+Garage Capital,Astranis
+Andreessen Horowitz,Astranis
+Lux Capital,Astranis
 Koch Industries,Astranis
+Y Combinator,Astranis
+Correlation Ventures,BoostUp.ai
+NGP Capital,BoostUp.ai
+Bossa Nova Investimentos,BoostUp.ai
 Bethnal Green Ventures,BoostUp.ai
 Benhamou Global Ventures,BoostUp.ai
+Andreessen Horowitz,Everlaw
+Menlo Ventures,Everlaw
+CapitalG,Everlaw
+Ulu Ventures,Everlaw
+TPG Growth,Everlaw
+Casdin Capital,Arzeda
 Universal Materials Incubator,Arzeda
+Sequoia Capital,Clever
+GV,Clever
+Y Combinator,Clever
+Initialized Capital,Clever
+SoftBank,Clip
+500 Startups,Clip
+Sierra Ventures,Clip
+General Atlantic,Clip
 HNA Group,Deutsche Bank
 Cerberus Capital Management,Deutsche Bank
+Vertex Ventures,DataRails
+Innovation Endeavors,DataRails
+Zeev Ventures,DataRails
 Qumra Capital,DataRails
 Vertex Ventures Israel,DataRails
 DFINITY,Functionland
+Protocol Labs,Functionland
 Outlier Ventures,Functionland
 DoraHacks,Functionland
+Digital Currency Group,BitGo
+Galaxy Digital,BitGo
+Blockchain Capital,BitGo
+Craft Ventures,BitGo
+Techstars,Arena.im
+Craft Ventures,Arena.im
+Right Side Capital Management,Arena.im
+Incubate Fund,Arena.im
+CRV,Arena.im
+EquityZen,Adaptive Biotechnologies
 ARK Investment Management,Adaptive Biotechnologies
 Viking Global Investors,Adaptive Biotechnologies
+Senator Investment Group,Adaptive Biotechnologies
+Rock Springs Capital,Adaptive Biotechnologies
+Norwest Venture Partners,FloQast
+Insight Partners,FloQast
+Redpoint,FloQast
+Wavemaker Partners,FloQast
+Toba Capital,FloQast
+Andreessen Horowitz,Cross River
+T. Rowe Price,Cross River
+Ribbit Capital,Cross River
+LionTree,Cross River
 Notion Capital,FiveAI
 Kindred Capital,FiveAI
+Amadeus Capital Partners,FiveAI
 Trustbridge Partners,FiveAI
+GGV Capital,Drata
+ICONIQ Growth,Drata
+Cowboy Ventures,Drata
+SV Angel,Drata
+Alkeon Capital,Drata
+Apollo,Airbnb
+Citi,Airbnb
+Silver Lake,Airbnb
+Sequoia Capital,Airbnb
+Andreessen Horowitz,Airbnb
+Fortress Investment Group,BigBear.ai
 Highbridge Capital Management,BigBear.ai
-Kima Ventures,EquityZen
+Kima Ventures,Akeneo
+Summit Partners,Akeneo
+Partech,Akeneo
 Alven,Akeneo
+Salesforce Ventures,Akeneo
 Latitud,Datanomik
+Andreessen Horowitz,Datanomik
+Canary,Datanomik
+Tiger Global Management,AgentSync
+Anthemis Group,AgentSync
+Craft Ventures,AgentSync
+Valor Equity Partners,AgentSync
+Caffeinated Capital,AgentSync
+FJ Labs,FanDuel
+Tusk Venture Partners,FanDuel
+Kohlberg Kravis Roberts,FanDuel
+CapitalG,FanDuel
 Piton Capital,FanDuel
+Neuberger Berman Group,Duck Creek Technologies
+Insight Partners,Duck Creek Technologies
+Temasek Holdings,Duck Creek Technologies
+Dragoneer Investment Group,Duck Creek Technologies
+Fundamental Labs,Chainlink
 Limitless Crypto Investments,Chainlink
-U.S. Venture Partners,Edison
+Team8,Cyberpion
+U.S. Venture Partners,Cyberpion
 Hyperwise Ventures,Cyberpion
+Index Ventures,Elastic
+DCVC,Elastic
+New Enterprise Associates,Elastic
+SV Angel,Elastic
+8VC,BlueVoyant
+Temasek Holdings,BlueVoyant
 Fiserv,BlueVoyant
+Earlybird Venture Capital,Carto
+Insight Partners,Carto
+Accel,Carto
+Plug and Play Tech Center,Carto
+Y Combinator,D-ID
+OurCrowd,D-ID
+AXA Venture Partners,D-ID
+Maverick Ventures,D-ID
+Pitango Venture Capital,D-ID
+Atomico,ChannelEngine
 INKEF Capital,ChannelEngine
+SeedInvest,Firefly Aerospace
 XBTO Group,Firefly Aerospace
 AE Industrial Partners,Firefly Aerospace
 Tank Stream Ventures,Firefly Aerospace
+Bpifrance,Bigblue
 Runa Capital,Bigblue
+Plug and Play Tech Center,Bigblue
 LVP,Bigblue
+Microsoft,DNAnexus
+GV,DNAnexus
 WuXi AppTec,DNAnexus
 Regeneron,DNAnexus
+Northpond Ventures,DNAnexus
+Sequoia Capital India,Emeritus
 CPP Investments,Emeritus
+Sixth Street,Amplience
 Octopus Ventures,Amplience
 Northstar Ventures,Amplience
 Columbia Lake Partners,Amplience
+Accel,Couchbase
+Mayfield Fund,Couchbase
+Sorenson Capital,Couchbase
+Adams Street Partners,Couchbase
+North Bridge Venture Partners & Growth Equity,Couchbase
+Western Technology Investment,ANSYS
+Google,Glance
 Reliance Jio,Glance
+Mithril Capital Management,Glance
+Y Combinator,Ajaib
+Insignia Ventures Partners,Ajaib
+Alpha JWC Ventures,Ajaib
+Horizons Ventures,Ajaib
+Ribbit Capital,Ajaib
 Fort Ross Ventures,Buyk
-LVL1 Group,Columbia Care
+LVL1 Group,Buyk
 CM Ventures,Buyk
+Partech,Five9
+Adams Street Partners,Five9
 City National Bank,Five9
 Hummer Winblad Venture Partners,Five9
+Sapphire Ventures,Five9
+Inflection Point Ventures,Card91
 Point72 Ventures,Card91
+Commerce Ventures,Card91
 EMVC,Card91
+Sequoia Capital,ByteDance
+Morgan Stanley,ByteDance
+Goldman Sachs,ByteDance
+Tiger Global Management,ByteDance
+SoftBank Vision Fund,ByteDance
+Golub Capital,E2open
+Microsoft,Cruise
+Spark Capital,Cruise
+Y Combinator,Cruise
+Initialized Capital,Cruise
+SoftBank Vision Fund,Cruise
 NewLake Capital Partners,Columbia Care
+LVL1 Group,Columbia Care
+Accel,FRVR
+Makers Fund,FRVR
 Hiro Capital,FRVR
+Hillhouse Capital Group,CRED
+Insight Partners,CRED
+Tiger Global Management,CRED
+Coatue,CRED
+Tiger Global Management,Cialfo
+Susquehanna International Group (SIG),Cialfo
+Vulcan Capital,Cialfo
+Alto Partners Multi-Family Office,Cialfo
 January Capital,Cialfo
+Wells Fargo,Cushman & Wakefield
 Santander Bank,Cushman & Wakefield
 Vanke,Cushman & Wakefield
+Tiger Global Management,Glassdoor
+T. Rowe Price,Glassdoor
+CapitalG,Glassdoor
+EquityZen,Glassdoor
+SAP,Alchemist Accelerator
+Juniper Networks,Alchemist Accelerator
+Siemens,Alchemist Accelerator
+Khosla Ventures,Alchemist Accelerator
+Threshold,Alchemist Accelerator
 Kensington Capital Partners Limited,Brightspark Ventures
+Sequoia Capital,Binance
+Vertex Ventures,Binance
+Fundamental Labs,Binance
 Vertex Ventures Southeast Asia & India,Binance
+Two Sigma Ventures,Canary
+Khosla Ventures,Canary
+Western Technology Investment,Canary
+Sequoia Capital,Bolt
+Daimler,Bolt
+Startup Wise Guys,Bolt
+Creandum,Bolt
+Didi,Bolt
+Galaxy Digital,BlockFi
+Gaingels,BlockFi
+Tiger Global Management,BlockFi
+SoFi,BlockFi
+Silver Lake,AMC Theatres
 Mudrick Capital Management,AMC Theatres
+Wayra,Ascension
+Tencent,Farfetch
+Eurazeo,Farfetch
+IDG Capital,Farfetch
+Alibaba Group,Farfetch
+Andreessen Horowitz,FundersClub
+Spark Capital,FundersClub
+FundersClub,FundersClub
+Y Combinator,FundersClub
+Andreessen Horowitz,Affirm
+Morgan Stanley,Affirm
+Spark Capital,Affirm
+Baillie Gifford,Affirm
+Craft Ventures,Affirm
+Clocktower Technology Ventures,Carmoola
 VentureFriends,Carmoola
 InMotion Ventures,Carmoola
 Zhejiang Geely Holding Group,Daimler
 BAIC Group,Daimler
+Tencent,Didi
+Apple,Didi
+Citi,Didi
+SoftBank,Didi
+Silver Lake,Didi
+RRE Ventures,Base
+Index Ventures,Base
+Andreessen Horowitz,BlocPower
+Goldman Sachs,BlocPower
 Elemental Excelerator,BlocPower
+Kapor Capital,BlocPower
+Cleo Capital,BlocPower
+Warburg Pincus,Gojek
+Tencent,Gojek
+Meta,Gojek
+Google,Gojek
+Meituan,Gojek
+Hillhouse Capital Group,Delivery Hero
+Insight Partners,Delivery Hero
+Rocket Internet,Delivery Hero
+General Atlantic,Delivery Hero
+Altos Ventures,Delivery Hero
 Chan Zuckerberg Initiative,Elemental Excelerator
 United States Navy,Elemental Excelerator
+SoftBank,Alibaba Group
+Silver Lake,Alibaba Group
+Goldman Sachs,Alibaba Group
+Tiger Global Management,Alibaba Group
+Temasek Holdings,Alibaba Group
+Baillie Gifford,Gojo & Company
+Credit Saison,Gojo & Company
+SBI Investment,Gojo & Company
+SBI Group,Gojo & Company
 ANRI,Gojo & Company
+Blackstone Group,BC Partners
+Maveron,eBay
 Slack,Electric
+Bessemer Venture Partners,Electric
+Primary Venture Partners,Electric
+GGV Capital,Electric
+01 Advisors,Electric
 IONIQ,finleap
 Hannover Re,finleap
+SBI Group,finleap
 MS&AD Ventures,finleap
 Ping An Global Voyager,finleap
-Pivot Investment Partners,Fenway Summer Ventures
+Barclays,Anthemis Group
+Pivot Investment Partners,Anthemis Group
 Migdal Insurance and Financial Holdings,Anthemis Group
 Bay Wharf Capital,EXPERT DOJO
 VDOSH,EXPERT DOJO
+Naver,Emtek Group
+Grab,Emtek Group
+Insight Partners,Checkout.com
+Tiger Global Management,Checkout.com
+Coatue,Checkout.com
+GIC,Checkout.com
+Ribbit Capital,Checkout.com
+Creandum,Ark Kapital
+LocalGlobe,Ark Kapital
+Sequoia Capital,Cisco
+Galaxy Digital,Argo Blockchain
+Sequoia Capital,GirnarSoft
+Hillhouse Capital Group,GirnarSoft
+CapitalG,GirnarSoft
+Trifecta Capital Advisors,GirnarSoft
 Tybourne Capital Management,GirnarSoft
+MaC Venture Capital,Electric Capital
 American Axle & Manufacturing,Autotech Ventures
 Allison Transmission Holdings,Autotech Ventures
 Twitter,Aleph Holding
+NYSERDA,Applied Materials
 CRED,CredAvenue
+B Capital Group,CredAvenue
+Insight Partners,CredAvenue
+Sequoia Capital India,CredAvenue
+Lightrock,CredAvenue
+NYSERDA,DNV GL
+Ripple,Coil
+Mubadala,Evotec
 Gilde Healthcare,Evotec
 Omega Funds,Evotec
+Apple,Adobe
 ADQ,Aramex International
+Mayfield Fund,Edison
+U.S. Venture Partners,Edison
+Union Square Ventures,CircleUp
+GV,CircleUp
+QED Investors,CircleUp
+Clocktower Technology Ventures,CircleUp
 Rose Park Advisors,CircleUp
+RRE Ventures,Arca
+Arca,Arca
+Animoca Brands,Everyrealm
+Andreessen Horowitz,Everyrealm
+Dapper Labs,Everyrealm
+Hashed,Everyrealm
 Fannie Mae,General Motors
+NYSERDA,General Motors
+October,Engie
+Khosla Ventures,Eat Just
+Horizons Ventures,Eat Just
+Vulcan Capital,Eat Just
+AME Cloud Ventures,Eat Just
+Digital Currency Group,Blockchain.com
+GV,Blockchain.com
+Baillie Gifford,Blockchain.com
+Lightspeed Venture Partners,Blockchain.com
+LG Group,Blockchain.com
+US Department of Energy,American Axle & Manufacturing
+Bessemer Venture Partners,Good Technology
+New Enterprise Associates,Good Technology
+Threshold,Good Technology
 McAfee,Good Technology
+IDG Capital,Bitmain
+Coatue,Bitmain
+Temasek Holdings,Bitmain
+Sequoia Capital China,Bitmain
+EDBI,Bitmain
+Vertex Ventures,Evisort
+General Atlantic,Evisort
+Village Global,Evisort
 Rough Draft Ventures,Evisort
 M12 - Microsoft's Venture Fund,Evisort
+Insight Partners,Aviatrix
+Tiger Global Management,Aviatrix
+TCV,Aviatrix
+CRV,Aviatrix
+GoBeyond,GoBeyond
+Index Ventures,Credit Benchmark
+Balderton Capital,Credit Benchmark
 The SCAN Foundation,Alive Ventures
+Renaissance Venture Capital,Atlas Venture
 Bank of Montreal,Creative Destruction Lab (CDL)
+RBC Capital,Creative Destruction Lab (CDL)
 Government of Canada,Creative Destruction Lab (CDL)
 OSINOVA,Bossa Nova Investimentos
+Pivot Investment Partners,Fenway Summer Ventures
 Aviva Investors,Founders Factory
 GMG Ventures,Founders Factory
+Molten Ventures,Earlybird Venture Capital
+500 Startups,EquityZen
+Draper Associates,EquityZen
+Kima Ventures,EquityZen
 CRCM Ventures,EquityZen
 Amino Capital,EquityZen
 Bitmain,DoraHacks
 ArkStream Capital,DoraHacks
 8 Decimal Capital,DoraHacks
 Nikko AssetManagement,ARK Investment Management
+Tencent,DST Global
+Prosus & Naspers,DST Global
+Goldman Sachs Asset Management,Accel-KKR
+Dyal Capital Partners,Golub Capital
+Western Technology Investment,Finrise
+Mayfield Fund,Finrise
+NFX,Finrise
+500 Startups,Golden Gate
+Accel,Amplify.LA
 Baroda Ventures,Amplify.LA
 Deep Fork Capital,Amplify.LA
 Karlin Ventures,Amplify.LA
+Google,AOL
+Kleiner Perkins,AOL
+Comcast Ventures,AOL
+Sequoia Capital,Electronic Arts
+Kleiner Perkins,Electronic Arts
+TCV,Electronic Arts
 Sevin Rosen Funds,Electronic Arts
+BC Partners,Altice USA
+Canada Pension Plan Investment Board,Altice USA
+Google,Baidu
+IDG Capital,Baidu
+Threshold,Baidu
 Omnes Capital,ESL Gaming
+TA Associates,Bigpoint
+Summit Partners,Bigpoint
 GMT Capital,Bigpoint
 Peacock Equity,Bigpoint
